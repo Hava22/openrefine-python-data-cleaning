@@ -1,4 +1,3 @@
-I'll help you create a comprehensive README.md file for your repository. Here's the content:
 
 ## README.md Content
 
