@@ -1,0 +1,174 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Cleaning Report</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/diff2html/2.12.2/diff2html.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/diff2html/2.12.2/diff2html.min.css" />
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .metrics {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            background: #f8f9fa;
+        }
+        .metric-card {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+        }
+        .metric-value {
+            font-size: 1.8em;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        .improvement {
+            color: #27ae60;
+        }
+        .diff-container {
+            padding: 20px;
+        }
+        .operations {
+            background: #f8f9fa;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        .operation-item {
+            background: white;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #3498db;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🧹 Data Cleaning Report</h1>
+            <p>OpenRefine-style operations implemented in Python</p>
+        </div>
+
+        <div class="metrics">
+            <div class="metric-card">
+                <div class="metric-value">1,000</div>
+                <div class="metric-label">Original Records</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value">25 → <span class="improvement">7</span></div>
+                <div class="metric-label">Article Variations</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value"><span class="improvement">72.0%</span></div>
+                <div class="metric-label">Reduction</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-value">1,000</div>
+                <div class="metric-label">Cleaned Records</div>
+            </div>
+        </div>
+
+        
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+            <h4 style="margin-top: 0; color: #dc3545;">📋 Original Top Articles</h4>
+            <ul style="list-style: none; padding: 0;">
+    <li style="padding: 5px 0; border-bottom: 1px solid #eee;">brexit <span style="float: right; font-weight: bold;">69</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">brexit deal <span style="float: right; font-weight: bold;">60</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">UK brexit <span style="float: right; font-weight: bold;">56</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">global warming <span style="float: right; font-weight: bold;">50</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">vaccine rollout <span style="float: right; font-weight: bold;">48</span></li>
+            </ul>
+        </div>
+        <div style="background: #f8f9fa; padding: 15px; border-radius: 5px;">
+            <h4 style="margin-top: 0; color: #28a745;">✅ Cleaned Top Articles</h4>
+            <ul style="list-style: none; padding: 0;">
+    <li style="padding: 5px 0; border-bottom: 1px solid #eee;">COVID-19 <span style="float: right; font-weight: bold;">209</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">Brexit <span style="float: right; font-weight: bold;">185</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">Ukraine <span style="float: right; font-weight: bold;">161</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">Technology <span style="float: right; font-weight: bold;">147</span></li><li style="padding: 5px 0; border-bottom: 1px solid #eee;">Vaccine <span style="float: right; font-weight: bold;">133</span></li>
+            </ul>
+        </div>
+    </div>
+    
+
+        <div class="operations">
+            <h3>🔧 Cleaning Operations Applied</h3>
+            <div class="operation-item">
+                <strong>Text Clustering:</strong> Grouped similar article names using pattern matching
+            </div>
+            <div class="operation-item">
+                <strong>Case Normalization:</strong> Standardized text to consistent casing
+            </div>
+            <div class="operation-item">
+                <strong>Whitespace Cleaning:</strong> Removed leading/trailing spaces
+            </div>
+            <div class="operation-item">
+                <strong>Duplicate Removal:</strong> Eliminated identical records
+            </div>
+            <div class="operation-item">
+                <strong>Pattern Matching:</strong> Used regex patterns for categorization (e.g., covid|coronavirus → COVID-19)
+            </div>
+        </div>
+
+        <div class="diff-container">
+            <h3>📊 Data Transformation Examples</h3>
+            <p>The following shows examples of how article names were standardized:</p>
+            <div id="diff-container"></div>
+        </div>
+    </div>
+
+    <script>
+        const diffString = `--- raw_data_sample.csv
++++ cleaned_data_sample.csv
+@@ -1,12 +1,12 @@
+-date,article,pageviews,country
++date,article,pageviews,country,article_standardized
+-2024-01-15,brexit deal,1067,US
++2024-01-15,brexit deal,1067,US,Brexit
+-2024-01-16,vaccine rollout,6660,CA
++2024-01-16,vaccine rollout,6660,CA,Vaccine
+-2024-01-17,UK brexit,9210,CA
++2024-01-17,UK brexit,9210,CA,Brexit
+-2024-01-18,tech,4521,UK
++2024-01-18,tech,4521,UK,Technology
+-2024-01-19,Ukraine crisis,1572,CA
++2024-01-19,Ukraine crisis,1572,CA,Ukraine
+-2024-01-20,tech news,8832,AU
++2024-01-20,tech news,8832,AU,Technology
+-2024-01-21,coronavirus,3258,CA
++2024-01-21,coronavirus,3258,CA,COVID-19
+-2024-01-22,covid 19,7039,CA
++2024-01-22,covid 19,7039,CA,COVID-19`;
+
+        const configuration = {
+            drawFileList: true,
+            matching: 'lines',
+            highlight: true,
+            outputFormat: 'side-by-side',
+            synchronisedScroll: true
+        };
+
+        const diff2htmlUi = new Diff2HtmlUI(document.getElementById('diff-container'), 
+            diffString, configuration);
+        diff2htmlUi.draw();
+    </script>
+</body>
+</html>
