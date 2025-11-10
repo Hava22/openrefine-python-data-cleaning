@@ -1,0 +1,34 @@
+article,pageviews,country,cluster_key,article_transformed,chinese_tech_cluster,string_length
+huawei,32334,JP,aweihuuawe,huawei,Huawei,6
+Huawei Technologies,22398,US,awcheceiesgihnhuieitlonoogolteuawe,Huawei Technologies,Huawei,19
+huawei tech,35650,JP,awcheceihuitteuawe,huawei tech,Huawei,11
+HUAWEI,22292,US,aweihuuawe,HUAWEI,Huawei,6
+xiaomi,36755,CN,aoiamiomxi,xiaomi,Xiaomi,6
+Xiaomi Corp,39353,US,aocoiaicmiomorrpxi,Xiaomi Corp,Xiaomi,11
+xiaomi smartphone,4159,CN,aoarhoiaismamineomonphrtsmtpxi,xiaomi smartphone,Xiaomi,17
+tencent,33626,CN,ceenncntte,tencent,Tencent,7
+Tencent Holdings,30351,US,cediengshoinldncngntolteth,Tencent Holdings,Tencent,16
+tencent games,38298,UK,amceenesgamencnttetg,tencent games,Tencent,13
+alibaba,18065,US,abalbaibli,alibaba,Alibaba,7
+Alibaba Group,22638,DE,abagalbagribliouroup,Alibaba Group,Alibaba,13
+alibaba.com,2073,DE,.ca.abalbacoibliom,alibaba.com,Alibaba,11
+5g,47511,UK,5g,5g,5G,2
+5G technology,19771,CN,5gchecgtgyhnlonoogolte,5G technology,5G,13
+5g network,36461,UK,5getgnneorrktwwo,5g network,5G,10
+artificial intelligence,43330,DE,alarcecielenfigeiaicifiginlillncntrtteti,artificial intelligence,AI,23
+AI,30320,UK,ai,AI,AI,2
+ai technology,5340,US,aichecgyhnitlonoogolte,ai technology,AI,13
+semiconductor,35924,UK,coctduemicmindonorsetouc,semiconductor,Semiconductor,13
+semiconductors,17184,CN,coctduemicmindonorrssetouc,semiconductors,Semiconductor,14
+chip manufacturing,41734,US,acanchctfahiinipmangnupmrituufur,chip manufacturing,Semiconductor,18
+google,3580,JP,glgoleogoo,google,Other,6
+Google LLC,41025,DE,elglgolclellogoo,Google LLC,Other,10
+google search,29967,DE,archeaesglgoleogoorcse,google search,Other,13
+apple,3159,UK,apleplpp,apple,Other,5
+Apple Inc,49940,US,apeiinlencplpp,Apple Inc,Other,9
+apple iphone,14900,JP,apeihoipleneonphplpp,apple iphone,Other,12
+  huawei  ,12440,US,aweihuuawe, huawei ,Huawei,10
+HUAWEI TECH,15678,DE,awcheceihuitteuawe,HUAWEI TECH,Huawei,11
+xiaomi mobile,48204,US,aobiiailimlemimoobomxi,xiaomi mobile,Xiaomi,13
+Tencent games,13021,JP,amceenesgamencnttetg,Tencent games,Tencent,13
+ALIBABA GROUP,7772,UK,abagalbagribliouroup,ALIBABA GROUP,Alibaba,13

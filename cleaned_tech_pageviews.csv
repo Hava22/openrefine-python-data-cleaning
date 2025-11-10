@@ -1,0 +1,1201 @@
+date,article,pageviews,country,article_standardized,category,month
+2023-09-28,silicon valley tech,14218,IN,Silicon Valley,Global Tech,2023-09
+2023-05-02,Xiaomi Corp,17850,US,Xiaomi,Chinese Companies,2023-05
+2024-01-08,tech startup,12163,US,Startup Company,Global Tech,2024-01
+2023-11-05,startup company,1569,IN,Startup Company,Global Tech,2023-11
+2024-01-21,artificial intelligence,6311,CA,Artificial Intelligence,Chinese Concepts,2024-01
+2023-11-10,tencent games,7396,CN,Tencent,Chinese Companies,2023-11
+2023-02-28,DJI drones,19942,US,DJI,Chinese Companies,2023-02
+2024-07-20,digital vaccine,1767,JP,Vaccine,Other,2024-07
+2024-10-08,google ai,11880,US,Artificial Intelligence,Chinese Concepts,2024-10
+2023-11-12,clean tech,8933,CN,Clean Tech,Other,2023-11
+2023-12-06,WeChat app,16787,UK,WeChat,Chinese Concepts,2023-12
+2023-07-25,google search,3952,CN,Google,Global Tech,2023-07
+2023-01-02,ukraine tech,1521,UK,Ukraine Conflict,Other,2023-01
+2024-04-21,5G China,13990,KR,5G Technology,Chinese Concepts,2024-04
+2023-07-21,tech vaccine,1495,JP,Vaccine,Other,2023-07
+2024-04-06,green technology,9967,US,Climate Tech,Other,2024-04
+2024-12-20,tech war,8416,CN,Tech War,Other,2024-12
+2023-08-05,ByteDance,7331,UK,Bytedance,Chinese Companies,2023-08
+2023-03-06,Alibaba Group,17216,CA,Alibaba Group,Chinese Companies,2023-03
+2024-10-09,covid tech,5758,US,COVID-19,Other,2024-10
+2024-02-23,digital vaccine,6392,FR,Vaccine,Other,2024-02
+2023-01-28,artificial intelligence china,9392,JP,Artificial Intelligence,Chinese Concepts,2023-01
+2023-02-17,5g,3454,DE,5G Technology,Chinese Concepts,2023-02
+2024-11-14,huawei tech,11965,KR,Huawei,Chinese Companies,2024-11
+2024-09-04,huawei tech,9110,IN,Huawei,Chinese Companies,2024-09
+2023-08-06,huawei 5g,1502,IN,Huawei,Chinese Companies,2023-08
+2024-01-28,venture capital tech,1006,CN,Venture Capital,Global Tech,2024-01
+2024-04-05,belt and road,16934,KR,Belt and Road Initiative,Chinese Concepts,2024-04
+2023-04-06,Baidu Inc,19141,US,Baidu,Chinese Companies,2023-04
+2024-10-16,microsoft windows,4042,US,Microsoft,Global Tech,2024-10
+2024-11-29,Xiaomi Corp,11817,JP,Xiaomi,Chinese Companies,2024-11
+2024-10-07,made in china 2025,14931,US,Made in China 2025,Chinese Concepts,2024-10
+2023-11-27,china belt road,19047,SG,China Belt Road,Other,2023-11
+2023-08-19,clean tech,7892,CN,Clean Tech,Other,2023-08
+2024-09-19,venture capital,14060,KR,Venture Capital,Global Tech,2024-09
+2024-03-31,apple,6330,CN,Apple Inc.,Global Tech,2024-03
+2023-08-22,huawei,1663,FR,Huawei,Chinese Companies,2023-08
+2023-08-21,wechat mini programs,19237,CA,WeChat,Chinese Concepts,2023-08
+2024-01-21,climate tech,8054,CN,Climate Tech,Other,2024-01
+2023-03-22,ByteDance,18082,JP,Bytedance,Chinese Companies,2023-03
+2024-07-19,belt and road,1854,CN,Belt and Road Initiative,Chinese Concepts,2024-07
+2024-02-07,huawei,14949,US,Huawei,Chinese Companies,2024-02
+2024-02-20,digital conflict,5431,US,Digital Conflict,Other,2024-02
+2023-10-21,covid tech,2827,UK,COVID-19,Other,2023-10
+2024-05-25,artificial intelligence,16087,SG,Artificial Intelligence,Chinese Concepts,2024-05
+2023-07-06,dji innovation,12589,DE,DJI,Chinese Companies,2023-07
+2024-02-07,silicon valley tech,10361,UK,Silicon Valley,Global Tech,2024-02
+2024-12-11,silicon valley tech,2643,FR,Silicon Valley,Global Tech,2024-12
+2023-12-04,climate tech,5236,DE,Climate Tech,Other,2023-12
+2023-05-31,bytedance tiktok,17646,DE,TikTok,Chinese Concepts,2023-05
+2024-07-25,tiktok,14168,US,TikTok,Chinese Concepts,2024-07
+2023-02-06,tech war,7658,CN,Tech War,Other,2023-02
+2023-07-27,silicon valley,1954,KR,Silicon Valley,Global Tech,2023-07
+2024-11-03,wechat mini programs,13183,KR,WeChat,Chinese Concepts,2024-11
+2024-02-24,xiaomi smartphone,10637,DE,Xiaomi,Chinese Companies,2024-02
+2023-04-22,5g network,3557,FR,5G Technology,Chinese Concepts,2023-04
+2023-12-04,alibaba cloud,12969,DE,Alibaba Group,Chinese Companies,2023-12
+2023-06-10,clean tech,6199,US,Clean Tech,Other,2023-06
+2024-05-18,alibaba.com,14446,IN,Alibaba Group,Chinese Companies,2024-05
+2024-11-18,covid tech,5055,UK,COVID-19,Other,2024-11
+2023-01-22,WeChat pay,7893,JP,WeChat,Chinese Concepts,2023-01
+2024-07-16,chip manufacturing,11677,FR,Semiconductor,Chinese Concepts,2024-07
+2023-10-04,Google LLC,5693,DE,Google,Global Tech,2023-10
+2024-03-28,google,12059,IN,Google,Global Tech,2024-03
+2024-06-30,Google,14303,DE,Google,Global Tech,2024-06
+2023-08-08,tencent games,19589,CA,Tencent,Chinese Companies,2023-08
+2023-04-09,xiaomi,2060,FR,Xiaomi,Chinese Companies,2023-04
+2023-06-30,alibaba,17990,CA,Alibaba Group,Chinese Companies,2023-06
+2023-07-10,Baidu Inc,11492,CN,Baidu,Chinese Companies,2023-07
+2023-09-13,google,4194,US,Google,Global Tech,2023-09
+2024-07-19,tencent,1569,FR,Tencent,Chinese Companies,2024-07
+2024-09-17,wechat mini programs,8455,DE,WeChat,Chinese Concepts,2024-09
+2024-09-30,Google LLC,954,CN,Google,Global Tech,2024-09
+2023-04-14,TikTok app,9096,US,TikTok,Chinese Concepts,2023-04
+2023-02-08,tiktok,6801,SG,TikTok,Chinese Concepts,2023-02
+2024-02-12,amazon aws,9516,US,Amazon,Global Tech,2024-02
+2023-02-05,venture capital,5580,US,Venture Capital,Global Tech,2023-02
+2024-04-15,digital vaccine,9858,CN,Vaccine,Other,2024-04
+2023-02-20,WeChat pay,17958,CA,WeChat,Chinese Concepts,2023-02
+2024-07-23,china 2025,10907,US,China 2025,Other,2024-07
+2024-03-19,startup company,11652,UK,Startup Company,Global Tech,2024-03
+2024-09-11,dji innovation,17388,UK,DJI,Chinese Companies,2024-09
+2023-12-16,chip manufacturing,5142,DE,Semiconductor,Chinese Concepts,2023-12
+2024-10-17,ukraine tech,4965,UK,Ukraine Conflict,Other,2024-10
+2024-10-18,douyin,9311,CN,TikTok,Chinese Concepts,2024-10
+2023-12-12,climate tech,9432,US,Climate Tech,Other,2023-12
+2023-05-07,WeChat pay,2931,CN,WeChat,Chinese Concepts,2023-05
+2024-05-27,china 2025,14407,UK,China 2025,Other,2024-05
+2024-05-02,clean tech,7904,CN,Clean Tech,Other,2024-05
+2024-12-04,climate tech,1080,JP,Climate Tech,Other,2024-12
+2023-03-17,google search,5049,CN,Google,Global Tech,2023-03
+2024-11-27,baidu ai,10435,US,Baidu,Chinese Companies,2024-11
+2024-03-28,alibaba,12151,US,Alibaba Group,Chinese Companies,2024-03
+2024-07-04,tech war,7921,CN,Tech War,Other,2024-07
+2024-06-05,vc funding,14869,DE,Venture Capital,Global Tech,2024-06
+2023-08-11,wechat,12922,UK,WeChat,Chinese Concepts,2023-08
+2023-11-21,ByteDance,17364,US,Bytedance,Chinese Companies,2023-11
+2023-09-15,climate tech,9587,DE,Climate Tech,Other,2023-09
+2024-11-20,green technology,2927,US,Climate Tech,Other,2024-11
+2024-03-02,baidu,6387,CN,Baidu,Chinese Companies,2024-03
+2023-02-12,xiaomi smartphone,11636,US,Xiaomi,Chinese Companies,2023-02
+2023-09-10,5G technology,3082,CN,5G Technology,Chinese Concepts,2023-09
+2024-08-27,ai technology,17281,DE,Artificial Intelligence,Chinese Concepts,2024-08
+2023-04-25,5G technology,9808,UK,5G Technology,Chinese Concepts,2023-04
+2024-09-17,WeChat app,12338,KR,WeChat,Chinese Concepts,2024-09
+2023-10-04,clean tech,7664,CN,Clean Tech,Other,2023-10
+2024-04-01,5g huawei,3967,SG,Huawei,Chinese Companies,2024-04
+2024-07-01,huawei tech,6073,CN,Huawei,Chinese Companies,2024-07
+2024-10-24,green technology,7857,JP,Climate Tech,Other,2024-10
+2024-11-25,covid tech,6144,IN,COVID-19,Other,2024-11
+2023-09-30,Apple company,12944,UK,Apple Inc.,Global Tech,2023-09
+2023-12-08,clean tech,4992,KR,Clean Tech,Other,2023-12
+2024-01-31,HUAWEI,8400,KR,Huawei,Chinese Companies,2024-01
+2024-12-18,Xiaomi Corp,6486,US,Xiaomi,Chinese Companies,2024-12
+2024-01-31,huawei tech,12130,US,Huawei,Chinese Companies,2024-01
+2023-05-24,bytedance,2062,US,Bytedance,Chinese Companies,2023-05
+2024-02-02,china 2025,5729,CN,China 2025,Other,2024-02
+2024-10-19,microsoft,5646,US,Microsoft,Global Tech,2024-10
+2024-05-06,china 2025,8056,US,China 2025,Other,2024-05
+2024-10-14,microsoft azure,1991,US,Microsoft,Global Tech,2024-10
+2024-09-25,made in china,18924,UK,Made In China,Other,2024-09
+2024-10-09,douyin,14807,KR,TikTok,Chinese Concepts,2024-10
+2024-10-18,wechat,8494,CA,WeChat,Chinese Concepts,2024-10
+2023-03-11,ukraine tech,7919,US,Ukraine Conflict,Other,2023-03
+2023-07-01,tencent games,16485,UK,Tencent,Chinese Companies,2023-07
+2023-08-08,alibaba cloud,4709,US,Alibaba Group,Chinese Companies,2023-08
+2023-12-27,green technology,3572,DE,Climate Tech,Other,2023-12
+2023-07-10,clean tech,2031,CN,Clean Tech,Other,2023-07
+2023-04-27,covid tech,633,SG,COVID-19,Other,2023-04
+2023-05-29,tencent wechat,12003,US,Tencent,Chinese Companies,2023-05
+2024-06-15,silicon valley,12504,UK,Silicon Valley,Global Tech,2024-06
+2024-06-09,Alibaba,10588,DE,Alibaba Group,Chinese Companies,2024-06
+2024-04-15,Amazon.com,8920,FR,Amazon,Global Tech,2024-04
+2023-12-24,tiktok,1667,CN,TikTok,Chinese Concepts,2023-12
+2024-11-06,belt and road,4719,CN,Belt and Road Initiative,Chinese Concepts,2024-11
+2023-02-10,belt and road,5835,CA,Belt and Road Initiative,Chinese Concepts,2023-02
+2023-07-20,TikTok app,14216,CN,TikTok,Chinese Concepts,2023-07
+2024-07-11,dji innovation,13677,FR,DJI,Chinese Companies,2024-07
+2024-03-25,tech war,509,FR,Tech War,Other,2024-03
+2023-01-05,made in china,2015,CN,Made In China,Other,2023-01
+2023-08-12,alibaba cloud,14550,US,Alibaba Group,Chinese Companies,2023-08
+2023-03-04,dji,7970,KR,DJI,Chinese Companies,2023-03
+2024-09-01,huawei,11344,CN,Huawei,Chinese Companies,2024-09
+2024-06-01,baidu search,13763,SG,Baidu,Chinese Companies,2024-06
+2024-03-12,google ai,7990,IN,Artificial Intelligence,Chinese Concepts,2024-03
+2024-04-02,tencent,14456,US,Tencent,Chinese Companies,2024-04
+2023-01-01,alibaba,13338,CN,Alibaba Group,Chinese Companies,2023-01
+2024-05-02,covid tech,3919,CN,COVID-19,Other,2024-05
+2023-09-07,vc funding,9665,UK,Venture Capital,Global Tech,2023-09
+2023-11-02,venture capital tech,5163,SG,Venture Capital,Global Tech,2023-11
+2024-02-05,tech war,5219,UK,Tech War,Other,2024-02
+2023-08-17,amazon,7796,DE,Amazon,Global Tech,2023-08
+2023-04-13,silicon valley,13851,CA,Silicon Valley,Global Tech,2023-04
+2023-12-01,5G technology,11209,CN,5G Technology,Chinese Concepts,2023-12
+2023-12-01,5g,5637,JP,5G Technology,Chinese Concepts,2023-12
+2023-05-13,amazon web services,5692,US,Amazon,Global Tech,2023-05
+2023-11-26,covid tech,3332,CN,COVID-19,Other,2023-11
+2024-06-29,tech war,8441,UK,Tech War,Other,2024-06
+2023-02-12,Tencent Holdings,13015,CN,Tencent,Chinese Companies,2023-02
+2024-10-24,venture capital,8150,JP,Venture Capital,Global Tech,2024-10
+2024-06-03,startup company,9891,US,Startup Company,Global Tech,2024-06
+2023-07-14,clean tech,2387,UK,Clean Tech,Other,2023-07
+2023-03-02,alibaba cloud,12314,US,Alibaba Group,Chinese Companies,2023-03
+2024-08-26,alibaba cloud,5777,US,Alibaba Group,Chinese Companies,2024-08
+2024-05-27,xiaomi,7376,CN,Xiaomi,Chinese Companies,2024-05
+2023-03-19,5G technology,15124,CN,5G Technology,Chinese Concepts,2023-03
+2023-02-16,made in china 2025,6240,DE,Made in China 2025,Chinese Concepts,2023-02
+2023-01-26,covid tech,1776,CA,COVID-19,Other,2023-01
+2024-12-26,tech startup,9517,JP,Startup Company,Global Tech,2024-12
+2023-08-04,microsoft azure,1164,US,Microsoft,Global Tech,2023-08
+2023-01-07,tech startup,5922,KR,Startup Company,Global Tech,2023-01
+2024-05-22,semiconductor,9172,KR,Semiconductor,Chinese Concepts,2024-05
+2023-01-15,5g network,14503,CN,5G Technology,Chinese Concepts,2023-01
+2024-12-14,dji innovation,2062,CN,DJI,Chinese Companies,2024-12
+2024-04-18,startup company,925,US,Startup Company,Global Tech,2024-04
+2023-07-31,tencent wechat,7168,DE,Tencent,Chinese Companies,2023-07
+2023-04-19,Apple company,10161,US,Apple Inc.,Global Tech,2023-04
+2023-02-03,startup company,13710,IN,Startup Company,Global Tech,2023-02
+2024-08-17,tencent games,16913,CN,Tencent,Chinese Companies,2024-08
+2023-10-09,wechat,16679,JP,WeChat,Chinese Concepts,2023-10
+2024-01-12,digital conflict,1960,US,Digital Conflict,Other,2024-01
+2024-05-17,artificial intelligence,7767,US,Artificial Intelligence,Chinese Concepts,2024-05
+2023-05-17,tech startup,13846,US,Startup Company,Global Tech,2023-05
+2023-08-17,apple iphone,11587,CA,Apple Inc.,Global Tech,2023-08
+2024-04-12,5G technology,15043,FR,5G Technology,Chinese Concepts,2024-04
+2023-04-28,apple,11920,UK,Apple Inc.,Global Tech,2023-04
+2024-07-27,douyin,6560,IN,TikTok,Chinese Concepts,2024-07
+2023-01-26,apple iphone,14546,SG,Apple Inc.,Global Tech,2023-01
+2024-02-14,xiaomi,10333,IN,Xiaomi,Chinese Companies,2024-02
+2024-06-15,covid tech,4708,UK,COVID-19,Other,2024-06
+2024-10-15,dji,13607,US,DJI,Chinese Companies,2024-10
+2024-05-25,semiconductor,7988,UK,Semiconductor,Chinese Concepts,2024-05
+2024-11-20,xiaomi,1009,UK,Xiaomi,Chinese Companies,2024-11
+2023-01-13,semiconductors,6287,SG,Semiconductor,Chinese Concepts,2023-01
+2023-11-25,huawei 5g,19378,UK,Huawei,Chinese Companies,2023-11
+2024-02-23,WeChat pay,10310,FR,WeChat,Chinese Concepts,2024-02
+2023-08-24,belt and road,11161,US,Belt and Road Initiative,Chinese Concepts,2023-08
+2024-08-10,clean tech,8662,US,Clean Tech,Other,2024-08
+2024-07-25,digital conflict,6451,SG,Digital Conflict,Other,2024-07
+2023-08-17,Apple company,7213,SG,Apple Inc.,Global Tech,2023-08
+2023-06-14,sv startups,3698,DE,Startup Company,Global Tech,2023-06
+2023-05-12,china belt road,17984,KR,China Belt Road,Other,2023-05
+2023-10-23,alibaba cloud,10510,IN,Alibaba Group,Chinese Companies,2023-10
+2024-09-28,digital vaccine,7065,UK,Vaccine,Other,2024-09
+2024-10-26,amazon,2992,KR,Amazon,Global Tech,2024-10
+2024-09-07,Google LLC,11143,JP,Google,Global Tech,2024-09
+2024-10-07,apple,11618,JP,Apple Inc.,Global Tech,2024-10
+2023-01-15,ukraine tech,6242,JP,Ukraine Conflict,Other,2023-01
+2024-02-24,climate tech,2704,US,Climate Tech,Other,2024-02
+2024-02-15,huawei 5g,18334,US,Huawei,Chinese Companies,2024-02
+2024-06-05,digital conflict,5112,KR,Digital Conflict,Other,2024-06
+2023-06-08,baidu ai,7371,UK,Baidu,Chinese Companies,2023-06
+2023-01-15,green technology,3728,UK,Climate Tech,Other,2023-01
+2023-11-20,Alibaba Group,3891,IN,Alibaba Group,Chinese Companies,2023-11
+2023-10-19,silicon valley,1593,CN,Silicon Valley,Global Tech,2023-10
+2023-01-11,Baidu Inc,15153,CN,Baidu,Chinese Companies,2023-01
+2023-01-23,ai technology,1814,CN,Artificial Intelligence,Chinese Concepts,2023-01
+2023-08-06,Microsoft Corp,11180,US,Microsoft,Global Tech,2023-08
+2024-09-14,made in china 2025,1827,JP,Made in China 2025,Chinese Concepts,2024-09
+2023-11-20,ukraine tech,4376,DE,Ukraine Conflict,Other,2023-11
+2024-08-26,TikTok app,12641,US,TikTok,Chinese Concepts,2024-08
+2023-10-23,microsoft azure,4168,FR,Microsoft,Global Tech,2023-10
+2024-09-04,google,4276,US,Google,Global Tech,2024-09
+2023-01-01,digital conflict,2354,CN,Digital Conflict,Other,2023-01
+2024-10-22,apple iphone,12494,US,Apple Inc.,Global Tech,2024-10
+2024-03-11,tencent,7456,US,Tencent,Chinese Companies,2024-03
+2024-07-28,huawei tech,17920,KR,Huawei,Chinese Companies,2024-07
+2023-07-29,5G technology,9666,IN,5G Technology,Chinese Concepts,2023-07
+2023-06-28,Tencent Holdings,18589,US,Tencent,Chinese Companies,2023-06
+2024-12-10,silicon valley tech,4372,FR,Silicon Valley,Global Tech,2024-12
+2024-10-23,Tencent Holdings,11395,US,Tencent,Chinese Companies,2024-10
+2023-03-25,Xiaomi Corp,18072,JP,Xiaomi,Chinese Companies,2023-03
+2023-03-04,belt and road,10916,US,Belt and Road Initiative,Chinese Concepts,2023-03
+2023-05-21,google,9981,IN,Google,Global Tech,2023-05
+2024-12-23,tech startup,12381,US,Startup Company,Global Tech,2024-12
+2024-03-04,Alibaba,10692,UK,Alibaba Group,Chinese Companies,2024-03
+2023-01-18,digital vaccine,1268,IN,Vaccine,Other,2023-01
+2023-07-13,amazon aws,7445,CN,Amazon,Global Tech,2023-07
+2024-11-08,china belt road,13342,FR,China Belt Road,Other,2024-11
+2023-06-11,digital vaccine,3951,SG,Vaccine,Other,2023-06
+2024-01-26,amazon aws,12071,US,Amazon,Global Tech,2024-01
+2024-03-18,google search,14878,US,Google,Global Tech,2024-03
+2023-08-27,made in china 2025,4300,US,Made in China 2025,Chinese Concepts,2023-08
+2023-09-21,dji innovation,8970,US,DJI,Chinese Companies,2023-09
+2024-05-05,wechat mini programs,13175,CN,WeChat,Chinese Concepts,2024-05
+2024-04-13,baidu ai,16070,CN,Baidu,Chinese Companies,2024-04
+2023-11-26,AI,17032,US,Artificial Intelligence,Chinese Concepts,2023-11
+2024-01-16,Amazon.com,9906,JP,Amazon,Global Tech,2024-01
+2024-05-28,tech vaccine,7352,CN,Vaccine,Other,2024-05
+2024-12-07,5G technology,5566,US,5G Technology,Chinese Concepts,2024-12
+2023-09-13,tech war,7583,US,Tech War,Other,2023-09
+2023-12-30,weixin,13880,KR,WeChat,Chinese Concepts,2023-12
+2023-05-08,climate tech,5331,CN,Climate Tech,Other,2023-05
+2024-06-09,amazon web services,13608,UK,Amazon,Global Tech,2024-06
+2023-12-25,bytedance tiktok,18685,SG,TikTok,Chinese Concepts,2023-12
+2024-12-27,tech vaccine,9496,US,Vaccine,Other,2024-12
+2023-02-11,WeChat app,6475,UK,WeChat,Chinese Concepts,2023-02
+2024-11-07,TikTok app,13875,US,TikTok,Chinese Concepts,2024-11
+2023-01-27,weixin,8992,CN,WeChat,Chinese Concepts,2023-01
+2024-09-01,apple iphone,14860,DE,Apple Inc.,Global Tech,2024-09
+2024-11-15,apple china,12464,CN,Apple Inc.,Global Tech,2024-11
+2023-12-29,tech vaccine,3366,US,Vaccine,Other,2023-12
+2023-01-29,vc funding,9140,SG,Venture Capital,Global Tech,2023-01
+2023-04-23,Google,9178,CN,Google,Global Tech,2023-04
+2023-04-08,startup company,4950,DE,Startup Company,Global Tech,2023-04
+2023-03-10,weixin,8715,UK,WeChat,Chinese Concepts,2023-03
+2023-09-01,google search,12912,UK,Google,Global Tech,2023-09
+2024-04-26,Tencent Holdings,15536,IN,Tencent,Chinese Companies,2024-04
+2024-12-13,xiaomi mobile,3343,IN,Xiaomi,Chinese Companies,2024-12
+2024-09-07,Tencent Holdings,13312,US,Tencent,Chinese Companies,2024-09
+2023-08-17,amazon aws,5003,DE,Amazon,Global Tech,2023-08
+2024-06-07,artificial intelligence,19706,CN,Artificial Intelligence,Chinese Concepts,2024-06
+2023-01-17,venture capital tech,1129,DE,Venture Capital,Global Tech,2023-01
+2023-01-12,Alibaba Group,2341,CA,Alibaba Group,Chinese Companies,2023-01
+2024-10-22,apple iphone,12144,DE,Apple Inc.,Global Tech,2024-10
+2024-12-10,tiktok,6319,US,TikTok,Chinese Concepts,2024-12
+2024-10-16,tencent games,14849,US,Tencent,Chinese Companies,2024-10
+2024-12-11,tiktok,9592,US,TikTok,Chinese Concepts,2024-12
+2023-09-07,baidu ai,17774,US,Baidu,Chinese Companies,2023-09
+2023-05-17,Xiaomi Corp,12122,FR,Xiaomi,Chinese Companies,2023-05
+2024-12-27,made in china,2500,UK,Made In China,Other,2024-12
+2024-02-06,wechat,18850,SG,WeChat,Chinese Concepts,2024-02
+2023-06-08,alibaba,3667,US,Alibaba Group,Chinese Companies,2023-06
+2023-06-20,5g network,3983,CN,5G Technology,Chinese Concepts,2023-06
+2023-02-08,Microsoft Corp,8494,SG,Microsoft,Global Tech,2023-02
+2024-02-01,digital conflict,9184,JP,Digital Conflict,Other,2024-02
+2023-11-07,5G technology,1545,US,5G Technology,Chinese Concepts,2023-11
+2023-05-21,microsoft windows,14385,FR,Microsoft,Global Tech,2023-05
+2023-02-08,venture capital tech,9805,CN,Venture Capital,Global Tech,2023-02
+2024-04-21,TikTok app,9436,UK,TikTok,Chinese Concepts,2024-04
+2023-08-27,green technology,4861,US,Climate Tech,Other,2023-08
+2023-12-06,Apple Inc,13476,IN,Apple Inc.,Global Tech,2023-12
+2024-03-04,huawei tech,2165,CN,Huawei,Chinese Companies,2024-03
+2023-05-26,5G China,15269,JP,5G Technology,Chinese Concepts,2023-05
+2024-08-07,covid tech,4994,CN,COVID-19,Other,2024-08
+2023-05-20,ukraine tech,2328,SG,Ukraine Conflict,Other,2023-05
+2024-03-15,apple,8286,FR,Apple Inc.,Global Tech,2024-03
+2023-08-14,microsoft windows,8678,CA,Microsoft,Global Tech,2023-08
+2024-10-21,apple iphone,6229,JP,Apple Inc.,Global Tech,2024-10
+2023-11-26,alibaba,8274,US,Alibaba Group,Chinese Companies,2023-11
+2024-05-20,artificial intelligence china,15199,CN,Artificial Intelligence,Chinese Concepts,2024-05
+2023-02-16,baidu ai,1726,KR,Baidu,Chinese Companies,2023-02
+2024-07-26,silicon valley tech,10906,CN,Silicon Valley,Global Tech,2024-07
+2023-03-03,tiktok video,15551,KR,TikTok,Chinese Concepts,2023-03
+2023-04-30,apple,1692,UK,Apple Inc.,Global Tech,2023-04
+2023-12-23,HUAWEI,12873,UK,Huawei,Chinese Companies,2023-12
+2024-09-26,digital vaccine,9679,UK,Vaccine,Other,2024-09
+2023-11-28,venture capital,13257,SG,Venture Capital,Global Tech,2023-11
+2023-09-18,clean tech,1454,CN,Clean Tech,Other,2023-09
+2023-11-24,digital conflict,5870,IN,Digital Conflict,Other,2023-11
+2024-03-29,tiktok video,9228,US,TikTok,Chinese Concepts,2024-03
+2024-08-15,dji innovation,6233,UK,DJI,Chinese Companies,2024-08
+2024-11-28,digital vaccine,2091,DE,Vaccine,Other,2024-11
+2023-09-19,covid tech,4811,SG,COVID-19,Other,2023-09
+2024-07-24,covid tech,2204,CN,COVID-19,Other,2024-07
+2024-11-23,bytedance tiktok,14481,US,TikTok,Chinese Concepts,2024-11
+2024-11-30,apple,6950,KR,Apple Inc.,Global Tech,2024-11
+2023-01-31,dji,15870,US,DJI,Chinese Companies,2023-01
+2024-10-31,tech war,4498,US,Tech War,Other,2024-10
+2024-08-11,semiconductor china,1294,US,Semiconductor,Chinese Concepts,2024-08
+2024-10-28,alibaba,2136,JP,Alibaba Group,Chinese Companies,2024-10
+2024-11-30,tech vaccine,5043,UK,Vaccine,Other,2024-11
+2023-11-22,Amazon.com,11506,IN,Amazon,Global Tech,2023-11
+2023-08-12,artificial intelligence china,14281,CN,Artificial Intelligence,Chinese Concepts,2023-08
+2023-10-05,tech war,7559,DE,Tech War,Other,2023-10
+2023-07-11,5G China,18424,IN,5G Technology,Chinese Concepts,2023-07
+2024-12-05,tencent,12383,US,Tencent,Chinese Companies,2024-12
+2024-12-04,semiconductor china,18070,CA,Semiconductor,Chinese Concepts,2024-12
+2024-01-16,digital vaccine,5626,US,Vaccine,Other,2024-01
+2023-03-20,xiaomi,12801,US,Xiaomi,Chinese Companies,2023-03
+2024-05-30,belt road initiative,15288,US,Belt Road Initiative,Other,2024-05
+2023-09-28,Xiaomi Corp,10078,SG,Xiaomi,Chinese Companies,2023-09
+2023-05-10,silicon valley tech,14798,DE,Silicon Valley,Global Tech,2023-05
+2024-06-22,semiconductor,12645,US,Semiconductor,Chinese Concepts,2024-06
+2023-10-30,tech war,4679,CN,Tech War,Other,2023-10
+2024-01-22,huawei 5g,6626,CN,Huawei,Chinese Companies,2024-01
+2024-06-10,digital conflict,2480,US,Digital Conflict,Other,2024-06
+2024-06-07,bytedance tiktok,6390,UK,TikTok,Chinese Concepts,2024-06
+2023-03-01,apple iphone,7373,US,Apple Inc.,Global Tech,2023-03
+2024-06-03,baidu search,9782,UK,Baidu,Chinese Companies,2024-06
+2023-07-18,wechat,18343,CN,WeChat,Chinese Concepts,2023-07
+2024-07-11,digital vaccine,1026,UK,Vaccine,Other,2024-07
+2023-09-30,AI,14547,US,Artificial Intelligence,Chinese Concepts,2023-09
+2024-12-26,xiaomi,6109,CN,Xiaomi,Chinese Companies,2024-12
+2024-08-06,wechat mini programs,5167,UK,WeChat,Chinese Concepts,2024-08
+2024-01-01,tiktok video,9357,CN,TikTok,Chinese Concepts,2024-01
+2023-04-12,bytedance tiktok,18162,UK,TikTok,Chinese Concepts,2023-04
+2024-02-05,clean tech,7231,CA,Clean Tech,Other,2024-02
+2023-03-27,digital conflict,3220,JP,Digital Conflict,Other,2023-03
+2023-01-02,tech vaccine,6868,US,Vaccine,Other,2023-01
+2024-08-11,huawei,15451,CN,Huawei,Chinese Companies,2024-08
+2023-06-15,Google LLC,7814,US,Google,Global Tech,2023-06
+2023-05-23,tiktok video,4041,US,TikTok,Chinese Concepts,2023-05
+2023-11-13,covid tech,6582,KR,COVID-19,Other,2023-11
+2023-03-14,xiaomi,1552,DE,Xiaomi,Chinese Companies,2023-03
+2024-11-20,green technology,3889,SG,Climate Tech,Other,2024-11
+2024-01-18,venture capital tech,11046,DE,Venture Capital,Global Tech,2024-01
+2024-01-25,ukraine tech,521,UK,Ukraine Conflict,Other,2024-01
+2024-11-30,Apple company,13961,CN,Apple Inc.,Global Tech,2024-11
+2023-01-12,weixin,11326,DE,WeChat,Chinese Concepts,2023-01
+2023-08-31,tencent wechat,5780,US,Tencent,Chinese Companies,2023-08
+2024-11-25,sv startups,11327,UK,Startup Company,Global Tech,2024-11
+2024-12-23,artificial intelligence,1661,CN,Artificial Intelligence,Chinese Concepts,2024-12
+2023-02-28,clean tech,9446,DE,Clean Tech,Other,2023-02
+2023-07-26,baidu ai,1352,KR,Baidu,Chinese Companies,2023-07
+2023-06-08,baidu search,1956,KR,Baidu,Chinese Companies,2023-06
+2023-12-30,HUAWEI,4453,CA,Huawei,Chinese Companies,2023-12
+2024-11-19,tech vaccine,5203,JP,Vaccine,Other,2024-11
+2024-05-26,WeChat app,13003,KR,WeChat,Chinese Concepts,2024-05
+2023-10-22,5G China,13201,CA,5G Technology,Chinese Concepts,2023-10
+2024-09-28,weixin,16596,UK,WeChat,Chinese Concepts,2024-09
+2024-06-03,Alibaba Group,13765,US,Alibaba Group,Chinese Companies,2024-06
+2024-01-10,tech vaccine,5148,US,Vaccine,Other,2024-01
+2023-08-19,green technology,3655,JP,Climate Tech,Other,2023-08
+2023-01-28,TikTok app,3113,KR,TikTok,Chinese Concepts,2023-01
+2024-02-28,huawei,13588,US,Huawei,Chinese Companies,2024-02
+2023-01-10,microsoft,12770,CN,Microsoft,Global Tech,2023-01
+2023-09-14,clean tech,6776,US,Clean Tech,Other,2023-09
+2024-05-27,Microsoft Corp,11352,US,Microsoft,Global Tech,2024-05
+2023-04-17,clean tech,6552,CN,Clean Tech,Other,2023-04
+2023-11-01,tech war,4068,DE,Tech War,Other,2023-11
+2024-09-11,digital conflict,1774,US,Digital Conflict,Other,2024-09
+2024-10-03,semiconductor china,1968,UK,Semiconductor,Chinese Concepts,2024-10
+2023-04-29,covid tech,1558,UK,COVID-19,Other,2023-04
+2023-06-10,DJI drones,10200,JP,DJI,Chinese Companies,2023-06
+2024-11-23,ukraine tech,2789,CA,Ukraine Conflict,Other,2024-11
+2023-08-05,Google LLC,8273,CA,Google,Global Tech,2023-08
+2024-05-09,tech startup,7370,UK,Startup Company,Global Tech,2024-05
+2023-05-31,digital conflict,7027,US,Digital Conflict,Other,2023-05
+2024-01-10,tech vaccine,7675,CA,Vaccine,Other,2024-01
+2024-10-30,bytedance,8519,US,Bytedance,Chinese Companies,2024-10
+2023-06-24,startup company,12865,DE,Startup Company,Global Tech,2023-06
+2024-03-02,vc funding,6889,US,Venture Capital,Global Tech,2024-03
+2024-06-21,TikTok app,4719,KR,TikTok,Chinese Concepts,2024-06
+2023-12-11,tencent games,4072,US,Tencent,Chinese Companies,2023-12
+2023-10-31,tech war,8625,DE,Tech War,Other,2023-10
+2024-07-28,artificial intelligence,6704,KR,Artificial Intelligence,Chinese Concepts,2024-07
+2024-08-07,alibaba.com,1488,US,Alibaba Group,Chinese Companies,2024-08
+2023-04-12,belt road initiative,2667,DE,Belt Road Initiative,Other,2023-04
+2024-08-16,5G technology,2000,CN,5G Technology,Chinese Concepts,2024-08
+2024-10-02,Tencent Holdings,2367,CN,Tencent,Chinese Companies,2024-10
+2024-12-25,venture capital,4526,DE,Venture Capital,Global Tech,2024-12
+2023-05-23,AI,10108,CN,Artificial Intelligence,Chinese Concepts,2023-05
+2024-02-21,bytedance tiktok,13592,UK,TikTok,Chinese Concepts,2024-02
+2023-04-12,Microsoft Corp,12330,JP,Microsoft,Global Tech,2023-04
+2023-01-03,semiconductor china,7471,UK,Semiconductor,Chinese Concepts,2023-01
+2024-09-20,belt and road,2177,US,Belt and Road Initiative,Chinese Concepts,2024-09
+2023-10-31,Huawei Technologies,12556,US,Huawei,Chinese Companies,2023-10
+2023-11-22,climate tech,7070,US,Climate Tech,Other,2023-11
+2023-12-02,microsoft,10830,US,Microsoft,Global Tech,2023-12
+2024-12-15,venture capital,4946,US,Venture Capital,Global Tech,2024-12
+2024-04-14,tencent wechat,5882,US,Tencent,Chinese Companies,2024-04
+2024-01-08,HUAWEI,4610,FR,Huawei,Chinese Companies,2024-01
+2024-10-09,digital vaccine,7811,US,Vaccine,Other,2024-10
+2023-01-02,tiktok video,13208,CA,TikTok,Chinese Concepts,2023-01
+2023-12-16,made in china 2025,2286,DE,Made in China 2025,Chinese Concepts,2023-12
+2023-06-08,AI,4654,CN,Artificial Intelligence,Chinese Concepts,2023-06
+2024-03-20,tencent,7441,FR,Tencent,Chinese Companies,2024-03
+2024-01-20,ukraine tech,5791,US,Ukraine Conflict,Other,2024-01
+2023-05-21,chips china,16222,DE,Chips China,Other,2023-05
+2023-08-08,baidu ai,5616,DE,Baidu,Chinese Companies,2023-08
+2024-09-28,clean tech,6795,CN,Clean Tech,Other,2024-09
+2023-10-20,made in china,13337,IN,Made In China,Other,2023-10
+2023-07-21,climate tech,7500,US,Climate Tech,Other,2023-07
+2024-03-14,covid tech,982,KR,COVID-19,Other,2024-03
+2024-10-22,bytedance,17336,US,Bytedance,Chinese Companies,2024-10
+2024-02-23,Alibaba Group,1987,US,Alibaba Group,Chinese Companies,2024-02
+2024-08-12,apple china,1900,JP,Apple Inc.,Global Tech,2024-08
+2023-11-16,made in china 2025,15114,JP,Made in China 2025,Chinese Concepts,2023-11
+2024-07-07,5g network,12543,US,5G Technology,Chinese Concepts,2024-07
+2023-08-06,Google,1925,JP,Google,Global Tech,2023-08
+2023-02-05,microsoft windows,13831,DE,Microsoft,Global Tech,2023-02
+2023-03-14,digital vaccine,5972,US,Vaccine,Other,2023-03
+2024-12-08,Xiaomi Corp,19188,UK,Xiaomi,Chinese Companies,2024-12
+2024-05-31,belt and road,3475,US,Belt and Road Initiative,Chinese Concepts,2024-05
+2023-08-18,xiaomi smartphone,2735,DE,Xiaomi,Chinese Companies,2023-08
+2024-01-16,semiconductors,13345,CN,Semiconductor,Chinese Concepts,2024-01
+2024-12-27,5G technology,10686,UK,5G Technology,Chinese Concepts,2024-12
+2024-03-17,digital conflict,3874,US,Digital Conflict,Other,2024-03
+2023-02-24,clean tech,3583,CN,Clean Tech,Other,2023-02
+2024-05-29,green technology,2179,CN,Climate Tech,Other,2024-05
+2023-04-14,silicon valley,13717,CA,Silicon Valley,Global Tech,2023-04
+2023-12-30,green technology,2868,KR,Climate Tech,Other,2023-12
+2024-02-10,Baidu Inc,5895,US,Baidu,Chinese Companies,2024-02
+2024-05-14,digital conflict,3285,US,Digital Conflict,Other,2024-05
+2024-10-24,covid tech,6757,CN,COVID-19,Other,2024-10
+2024-03-24,baidu search,6299,CN,Baidu,Chinese Companies,2024-03
+2024-04-10,5G China,5406,US,5G Technology,Chinese Concepts,2024-04
+2023-05-23,semiconductor,5437,JP,Semiconductor,Chinese Concepts,2023-05
+2023-02-11,covid tech,9285,JP,COVID-19,Other,2023-02
+2024-10-31,wechat mini programs,8629,SG,WeChat,Chinese Concepts,2024-10
+2024-06-09,climate tech,8764,CN,Climate Tech,Other,2024-06
+2023-05-10,Google LLC,3778,CN,Google,Global Tech,2023-05
+2023-09-23,tech vaccine,6156,JP,Vaccine,Other,2023-09
+2023-10-16,baidu ai,9286,UK,Baidu,Chinese Companies,2023-10
+2023-08-26,tiktok,15716,CN,TikTok,Chinese Concepts,2023-08
+2023-01-25,Apple company,6572,CN,Apple Inc.,Global Tech,2023-01
+2024-06-20,tech war,7840,UK,Tech War,Other,2024-06
+2024-10-19,ukraine tech,3536,US,Ukraine Conflict,Other,2024-10
+2023-02-12,belt road initiative,6179,CN,Belt Road Initiative,Other,2023-02
+2024-05-31,silicon valley,10945,UK,Silicon Valley,Global Tech,2024-05
+2024-11-20,china belt road,14564,JP,China Belt Road,Other,2024-11
+2023-03-24,Apple company,12968,US,Apple Inc.,Global Tech,2023-03
+2023-07-09,dji innovation,10074,US,DJI,Chinese Companies,2023-07
+2023-09-17,covid tech,2138,US,COVID-19,Other,2023-09
+2024-01-15,Xiaomi Corp,10011,US,Xiaomi,Chinese Companies,2024-01
+2023-08-19,digital conflict,8357,US,Digital Conflict,Other,2023-08
+2024-06-02,digital vaccine,2049,US,Vaccine,Other,2024-06
+2024-10-06,baidu ai,5481,US,Baidu,Chinese Companies,2024-10
+2024-08-13,baidu ai,11900,IN,Baidu,Chinese Companies,2024-08
+2024-02-27,wechat mini programs,15828,CA,WeChat,Chinese Concepts,2024-02
+2023-06-22,5g huawei,1671,UK,Huawei,Chinese Companies,2023-06
+2024-11-30,amazon web services,11434,UK,Amazon,Global Tech,2024-11
+2024-09-20,climate tech,8461,US,Climate Tech,Other,2024-09
+2024-09-15,wechat,1593,UK,WeChat,Chinese Concepts,2024-09
+2024-02-26,Baidu Inc,11636,US,Baidu,Chinese Companies,2024-02
+2023-04-30,covid tech,892,FR,COVID-19,Other,2023-04
+2024-07-13,belt and road,7172,CN,Belt and Road Initiative,Chinese Concepts,2024-07
+2023-08-20,china 2025,9906,UK,China 2025,Other,2023-08
+2023-07-19,digital conflict,7588,JP,Digital Conflict,Other,2023-07
+2023-06-22,climate tech,7583,UK,Climate Tech,Other,2023-06
+2023-07-19,xiaomi smartphone,4456,US,Xiaomi,Chinese Companies,2023-07
+2024-10-25,digital vaccine,2168,UK,Vaccine,Other,2024-10
+2024-10-12,ukraine tech,5031,IN,Ukraine Conflict,Other,2024-10
+2024-06-23,silicon valley,9554,US,Silicon Valley,Global Tech,2024-06
+2023-12-16,huawei 5g,11759,CN,Huawei,Chinese Companies,2023-12
+2024-01-03,chips china,12483,KR,Chips China,Other,2024-01
+2023-11-25,green technology,3509,DE,Climate Tech,Other,2023-11
+2024-01-17,amazon web services,7779,IN,Amazon,Global Tech,2024-01
+2024-01-13,bytedance tiktok,7910,CA,TikTok,Chinese Concepts,2024-01
+2024-10-13,HUAWEI,6978,CA,Huawei,Chinese Companies,2024-10
+2024-11-23,chip manufacturing,7303,IN,Semiconductor,Chinese Concepts,2024-11
+2024-06-06,tech vaccine,1021,CN,Vaccine,Other,2024-06
+2023-07-02,tech vaccine,6284,CN,Vaccine,Other,2023-07
+2024-09-17,belt and road,13275,US,Belt and Road Initiative,Chinese Concepts,2024-09
+2023-10-15,tencent games,1685,US,Tencent,Chinese Companies,2023-10
+2023-05-02,huawei tech,16990,KR,Huawei,Chinese Companies,2023-05
+2024-06-13,clean tech,2696,IN,Clean Tech,Other,2024-06
+2023-10-29,xiaomi smartphone,18030,US,Xiaomi,Chinese Companies,2023-10
+2024-10-23,digital conflict,4830,CN,Digital Conflict,Other,2024-10
+2024-06-24,tech vaccine,5058,US,Vaccine,Other,2024-06
+2024-02-11,chips china,11517,UK,Chips China,Other,2024-02
+2024-11-26,huawei,9706,CN,Huawei,Chinese Companies,2024-11
+2024-02-17,startups,14141,KR,Startup Company,Global Tech,2024-02
+2023-05-08,venture capital,4100,US,Venture Capital,Global Tech,2023-05
+2024-10-17,china 2025,17898,CA,China 2025,Other,2024-10
+2023-08-12,digital vaccine,8533,US,Vaccine,Other,2023-08
+2023-10-29,WeChat app,15566,JP,WeChat,Chinese Concepts,2023-10
+2023-04-22,artificial intelligence china,6132,UK,Artificial Intelligence,Chinese Concepts,2023-04
+2023-08-22,digital conflict,3149,SG,Digital Conflict,Other,2023-08
+2023-01-14,covid tech,3989,IN,COVID-19,Other,2023-01
+2023-03-11,digital vaccine,7878,CA,Vaccine,Other,2023-03
+2023-01-20,ukraine tech,2429,KR,Ukraine Conflict,Other,2023-01
+2024-04-13,vc funding,13909,DE,Venture Capital,Global Tech,2024-04
+2023-02-07,tencent,6891,US,Tencent,Chinese Companies,2023-02
+2023-09-30,Baidu Inc,11822,UK,Baidu,Chinese Companies,2023-09
+2024-12-28,5g network,17100,JP,5G Technology,Chinese Concepts,2024-12
+2024-06-19,silicon valley tech,961,JP,Silicon Valley,Global Tech,2024-06
+2023-11-15,silicon valley,6797,US,Silicon Valley,Global Tech,2023-11
+2023-04-27,digital conflict,1367,UK,Digital Conflict,Other,2023-04
+2023-12-16,ukraine tech,6756,CN,Ukraine Conflict,Other,2023-12
+2023-04-23,wechat,10518,CA,WeChat,Chinese Concepts,2023-04
+2023-06-10,digital conflict,1783,UK,Digital Conflict,Other,2023-06
+2024-02-03,venture capital tech,2533,CA,Venture Capital,Global Tech,2024-02
+2023-05-17,climate tech,3971,US,Climate Tech,Other,2023-05
+2024-09-10,tech vaccine,6897,JP,Vaccine,Other,2024-09
+2024-07-16,TikTok app,18833,KR,TikTok,Chinese Concepts,2024-07
+2024-08-03,douyin,8999,US,TikTok,Chinese Concepts,2024-08
+2023-03-15,baidu search,11595,US,Baidu,Chinese Companies,2023-03
+2023-10-22,climate tech,5605,FR,Climate Tech,Other,2023-10
+2024-09-03,clean tech,1185,JP,Clean Tech,Other,2024-09
+2024-06-26,clean tech,2119,DE,Clean Tech,Other,2024-06
+2024-02-12,tech war,9567,US,Tech War,Other,2024-02
+2023-06-12,belt and road,2974,FR,Belt and Road Initiative,Chinese Concepts,2023-06
+2024-09-09,digital conflict,8396,IN,Digital Conflict,Other,2024-09
+2023-08-16,clean tech,3143,JP,Clean Tech,Other,2023-08
+2024-06-16,venture capital,1489,CN,Venture Capital,Global Tech,2024-06
+2024-09-30,apple,10414,US,Apple Inc.,Global Tech,2024-09
+2024-04-16,ukraine tech,9635,FR,Ukraine Conflict,Other,2024-04
+2024-05-06,china 2025,4959,CN,China 2025,Other,2024-05
+2023-11-10,huawei 5g,2753,US,Huawei,Chinese Companies,2023-11
+2024-01-06,baidu,11123,CN,Baidu,Chinese Companies,2024-01
+2023-06-27,huawei,16352,KR,Huawei,Chinese Companies,2023-06
+2024-08-15,google,10679,US,Google,Global Tech,2024-08
+2023-02-12,belt and road,14992,SG,Belt and Road Initiative,Chinese Concepts,2023-02
+2024-09-01,Alibaba,18901,UK,Alibaba Group,Chinese Companies,2024-09
+2024-05-31,tencent,18921,DE,Tencent,Chinese Companies,2024-05
+2023-04-08,Huawei Technologies,12407,CN,Huawei,Chinese Companies,2023-04
+2023-03-27,Xiaomi Corp,9535,SG,Xiaomi,Chinese Companies,2023-03
+2024-07-24,belt and road,17009,CA,Belt and Road Initiative,Chinese Concepts,2024-07
+2023-02-01,amazon web services,3124,US,Amazon,Global Tech,2023-02
+2023-08-02,Google,6574,US,Google,Global Tech,2023-08
+2024-12-26,Alibaba Group,15939,CN,Alibaba Group,Chinese Companies,2024-12
+2024-11-10,xiaomi mobile,19489,IN,Xiaomi,Chinese Companies,2024-11
+2023-09-11,Huawei Technologies,11183,CN,Huawei,Chinese Companies,2023-09
+2023-08-15,wechat,16795,UK,WeChat,Chinese Concepts,2023-08
+2024-03-02,amazon aws,7652,CA,Amazon,Global Tech,2024-03
+2024-05-22,green technology,975,IN,Climate Tech,Other,2024-05
+2023-03-13,baidu search,7710,DE,Baidu,Chinese Companies,2023-03
+2023-08-26,Amazon.com,6023,UK,Amazon,Global Tech,2023-08
+2024-03-29,ukraine tech,3322,JP,Ukraine Conflict,Other,2024-03
+2023-10-10,huawei tech,14937,US,Huawei,Chinese Companies,2023-10
+2023-08-08,5g,1612,IN,5G Technology,Chinese Concepts,2023-08
+2023-09-17,tech war,7633,JP,Tech War,Other,2023-09
+2024-06-27,douyin,16149,CN,TikTok,Chinese Concepts,2024-06
+2024-06-16,tencent wechat,18053,DE,Tencent,Chinese Companies,2024-06
+2024-05-20,digital conflict,8938,US,Digital Conflict,Other,2024-05
+2023-05-11,bytedance tiktok,11592,US,TikTok,Chinese Concepts,2023-05
+2024-10-27,tech vaccine,7288,CA,Vaccine,Other,2024-10
+2024-01-07,clean tech,1145,IN,Clean Tech,Other,2024-01
+2024-01-30,clean tech,6069,SG,Clean Tech,Other,2024-01
+2024-12-25,clean tech,9846,KR,Clean Tech,Other,2024-12
+2023-10-04,china 2025,19099,FR,China 2025,Other,2023-10
+2023-12-04,amazon,6233,JP,Amazon,Global Tech,2023-12
+2024-10-23,Amazon.com,7216,KR,Amazon,Global Tech,2024-10
+2023-10-16,amazon,9715,IN,Amazon,Global Tech,2023-10
+2024-04-27,5G technology,10127,US,5G Technology,Chinese Concepts,2024-04
+2024-03-29,Apple Inc,7144,DE,Apple Inc.,Global Tech,2024-03
+2024-10-01,xiaomi smartphone,10794,DE,Xiaomi,Chinese Companies,2024-10
+2023-05-23,Alibaba Group,5628,US,Alibaba Group,Chinese Companies,2023-05
+2023-10-29,baidu search,9179,FR,Baidu,Chinese Companies,2023-10
+2024-07-04,covid tech,892,SG,COVID-19,Other,2024-07
+2023-07-29,Alibaba Group,18522,FR,Alibaba Group,Chinese Companies,2023-07
+2024-02-11,venture capital tech,10458,US,Venture Capital,Global Tech,2024-02
+2023-05-22,digital conflict,3159,CN,Digital Conflict,Other,2023-05
+2024-10-20,5g network,6661,SG,5G Technology,Chinese Concepts,2024-10
+2023-10-08,silicon valley tech,1223,IN,Silicon Valley,Global Tech,2023-10
+2024-12-27,artificial intelligence,19351,DE,Artificial Intelligence,Chinese Concepts,2024-12
+2024-03-01,douyin,6075,CA,TikTok,Chinese Concepts,2024-03
+2024-09-27,artificial intelligence china,14686,UK,Artificial Intelligence,Chinese Concepts,2024-09
+2024-02-02,amazon,10135,DE,Amazon,Global Tech,2024-02
+2024-04-09,HUAWEI,17669,US,Huawei,Chinese Companies,2024-04
+2023-03-30,ByteDance,14965,JP,Bytedance,Chinese Companies,2023-03
+2023-11-30,Apple company,11261,JP,Apple Inc.,Global Tech,2023-11
+2024-05-28,Google,8604,JP,Google,Global Tech,2024-05
+2023-05-07,ByteDance,6374,US,Bytedance,Chinese Companies,2023-05
+2024-03-07,Alibaba,10885,CN,Alibaba Group,Chinese Companies,2024-03
+2024-07-15,microsoft azure,2292,UK,Microsoft,Global Tech,2024-07
+2023-10-03,alibaba.com,13132,JP,Alibaba Group,Chinese Companies,2023-10
+2023-07-20,baidu search,14635,KR,Baidu,Chinese Companies,2023-07
+2024-04-24,wechat mini programs,12328,US,WeChat,Chinese Concepts,2024-04
+2024-02-28,amazon,11371,FR,Amazon,Global Tech,2024-02
+2024-06-10,chips china,11088,CN,Chips China,Other,2024-06
+2023-08-20,digital conflict,8486,CN,Digital Conflict,Other,2023-08
+2023-05-12,baidu,19230,UK,Baidu,Chinese Companies,2023-05
+2024-02-10,ukraine tech,9270,DE,Ukraine Conflict,Other,2024-02
+2023-06-11,wechat mini programs,19778,IN,WeChat,Chinese Concepts,2023-06
+2023-03-28,xiaomi smartphone,8429,KR,Xiaomi,Chinese Companies,2023-03
+2024-07-26,TikTok app,9921,FR,TikTok,Chinese Concepts,2024-07
+2024-03-24,apple china,13528,CN,Apple Inc.,Global Tech,2024-03
+2024-02-28,huawei tech,9333,JP,Huawei,Chinese Companies,2024-02
+2024-11-19,Baidu Inc,7796,UK,Baidu,Chinese Companies,2024-11
+2023-07-09,alibaba,18543,US,Alibaba Group,Chinese Companies,2023-07
+2024-08-24,covid tech,840,CN,COVID-19,Other,2024-08
+2024-01-17,digital conflict,6876,CN,Digital Conflict,Other,2024-01
+2024-07-06,Alibaba,1855,UK,Alibaba Group,Chinese Companies,2024-07
+2023-07-02,Apple Inc,3912,US,Apple Inc.,Global Tech,2023-07
+2023-11-29,digital vaccine,4129,US,Vaccine,Other,2023-11
+2023-11-28,digital vaccine,6632,CN,Vaccine,Other,2023-11
+2023-10-28,alibaba.com,1987,SG,Alibaba Group,Chinese Companies,2023-10
+2023-06-23,clean tech,4241,CN,Clean Tech,Other,2023-06
+2024-11-17,amazon web services,2675,DE,Amazon,Global Tech,2024-11
+2024-11-03,5G China,17977,US,5G Technology,Chinese Concepts,2024-11
+2023-03-25,apple iphone,14224,US,Apple Inc.,Global Tech,2023-03
+2024-10-16,douyin,15376,FR,TikTok,Chinese Concepts,2024-10
+2023-07-21,Apple company,3297,KR,Apple Inc.,Global Tech,2023-07
+2023-07-29,tencent,5658,FR,Tencent,Chinese Companies,2023-07
+2024-06-23,Xiaomi Corp,18154,IN,Xiaomi,Chinese Companies,2024-06
+2024-05-28,sv startups,2428,US,Startup Company,Global Tech,2024-05
+2023-09-15,green technology,4508,CN,Climate Tech,Other,2023-09
+2023-11-07,microsoft,8780,CN,Microsoft,Global Tech,2023-11
+2024-07-27,baidu search,13336,US,Baidu,Chinese Companies,2024-07
+2024-02-12,bytedance,6624,US,Bytedance,Chinese Companies,2024-02
+2023-04-17,baidu ai,3658,US,Baidu,Chinese Companies,2023-04
+2024-09-25,baidu search,4259,US,Baidu,Chinese Companies,2024-09
+2023-07-14,digital vaccine,3743,FR,Vaccine,Other,2023-07
+2023-12-26,startups,11033,CN,Startup Company,Global Tech,2023-12
+2024-01-15,5G China,11135,CN,5G Technology,Chinese Concepts,2024-01
+2023-01-07,tech war,3767,US,Tech War,Other,2023-01
+2024-07-12,huawei,12411,CN,Huawei,Chinese Companies,2024-07
+2024-02-23,belt and road,12246,US,Belt and Road Initiative,Chinese Concepts,2024-02
+2024-07-29,semiconductor,14703,CN,Semiconductor,Chinese Concepts,2024-07
+2023-07-23,green technology,1554,DE,Climate Tech,Other,2023-07
+2024-01-11,alibaba cloud,1442,UK,Alibaba Group,Chinese Companies,2024-01
+2024-10-27,HUAWEI,10370,US,Huawei,Chinese Companies,2024-10
+2023-08-22,venture capital tech,12626,US,Venture Capital,Global Tech,2023-08
+2023-09-02,amazon,13629,US,Amazon,Global Tech,2023-09
+2024-07-02,belt road initiative,7313,CN,Belt Road Initiative,Other,2024-07
+2024-10-07,startups,14819,CA,Startup Company,Global Tech,2024-10
+2023-03-18,Alibaba,15973,CN,Alibaba Group,Chinese Companies,2023-03
+2023-10-05,alibaba.com,13355,CA,Alibaba Group,Chinese Companies,2023-10
+2024-11-04,Alibaba,9556,IN,Alibaba Group,Chinese Companies,2024-11
+2024-07-07,startups,10369,CN,Startup Company,Global Tech,2024-07
+2024-05-11,vc funding,1140,CN,Venture Capital,Global Tech,2024-05
+2023-10-27,tech war,638,JP,Tech War,Other,2023-10
+2024-08-26,google,10295,CA,Google,Global Tech,2024-08
+2023-05-19,Alibaba Group,14283,CN,Alibaba Group,Chinese Companies,2023-05
+2023-04-14,huawei tech,10429,JP,Huawei,Chinese Companies,2023-04
+2023-06-14,douyin,17212,US,TikTok,Chinese Concepts,2023-06
+2024-09-04,Alibaba,11403,FR,Alibaba Group,Chinese Companies,2024-09
+2023-04-27,venture capital tech,14977,IN,Venture Capital,Global Tech,2023-04
+2023-05-20,Alibaba Group,11485,US,Alibaba Group,Chinese Companies,2023-05
+2024-04-20,Apple Inc,8484,SG,Apple Inc.,Global Tech,2024-04
+2024-07-11,clean tech,1382,UK,Clean Tech,Other,2024-07
+2024-08-04,ukraine tech,7666,CN,Ukraine Conflict,Other,2024-08
+2024-08-09,digital conflict,8625,IN,Digital Conflict,Other,2024-08
+2024-12-15,venture capital tech,13791,UK,Venture Capital,Global Tech,2024-12
+2024-11-21,TikTok app,16309,UK,TikTok,Chinese Concepts,2024-11
+2024-11-17,digital vaccine,6642,JP,Vaccine,Other,2024-11
+2023-06-12,microsoft windows,3919,CA,Microsoft,Global Tech,2023-06
+2023-12-03,ukraine tech,4435,US,Ukraine Conflict,Other,2023-12
+2023-11-19,apple,3290,US,Apple Inc.,Global Tech,2023-11
+2024-12-01,microsoft azure,11326,IN,Microsoft,Global Tech,2024-12
+2023-12-15,weixin,6845,IN,WeChat,Chinese Concepts,2023-12
+2023-11-16,china ai,13413,DE,Artificial Intelligence,Chinese Concepts,2023-11
+2024-11-11,tech vaccine,4235,IN,Vaccine,Other,2024-11
+2023-10-30,made in china 2025,13306,US,Made in China 2025,Chinese Concepts,2023-10
+2024-05-02,TikTok app,12590,US,TikTok,Chinese Concepts,2024-05
+2023-10-19,google,824,DE,Google,Global Tech,2023-10
+2023-05-21,google ai,10759,FR,Artificial Intelligence,Chinese Concepts,2023-05
+2023-05-07,clean tech,8948,KR,Clean Tech,Other,2023-05
+2024-06-18,ai technology,12528,IN,Artificial Intelligence,Chinese Concepts,2024-06
+2024-02-18,5G China,3014,US,5G Technology,Chinese Concepts,2024-02
+2023-07-07,apple iphone,13036,FR,Apple Inc.,Global Tech,2023-07
+2024-07-26,chip manufacturing,19514,UK,Semiconductor,Chinese Concepts,2024-07
+2024-10-18,tech vaccine,8413,US,Vaccine,Other,2024-10
+2023-11-18,belt and road,13737,IN,Belt and Road Initiative,Chinese Concepts,2023-11
+2023-10-22,tech vaccine,3451,CN,Vaccine,Other,2023-10
+2023-01-27,climate tech,4201,CN,Climate Tech,Other,2023-01
+2023-11-17,Xiaomi Corp,16592,US,Xiaomi,Chinese Companies,2023-11
+2024-02-07,baidu search,14364,CN,Baidu,Chinese Companies,2024-02
+2023-01-31,baidu ai,11576,IN,Baidu,Chinese Companies,2023-01
+2024-03-31,ukraine tech,2089,US,Ukraine Conflict,Other,2024-03
+2023-01-14,tech vaccine,7055,US,Vaccine,Other,2023-01
+2023-01-22,ByteDance,14341,UK,Bytedance,Chinese Companies,2023-01
+2024-04-15,DJI drones,6585,CN,DJI,Chinese Companies,2024-04
+2023-10-17,microsoft azure,5745,SG,Microsoft,Global Tech,2023-10
+2024-12-16,microsoft,8558,US,Microsoft,Global Tech,2024-12
+2023-06-03,dji,19193,CN,DJI,Chinese Companies,2023-06
+2023-12-09,TikTok app,15087,US,TikTok,Chinese Concepts,2023-12
+2023-06-06,tencent games,9859,US,Tencent,Chinese Companies,2023-06
+2024-10-20,Tencent Holdings,6793,CN,Tencent,Chinese Companies,2024-10
+2023-05-21,tech vaccine,9798,FR,Vaccine,Other,2023-05
+2024-11-21,green technology,9162,UK,Climate Tech,Other,2024-11
+2024-12-29,dji innovation,7318,US,DJI,Chinese Companies,2024-12
+2023-01-13,Tencent Holdings,1522,CA,Tencent,Chinese Companies,2023-01
+2024-08-28,venture capital,6632,US,Venture Capital,Global Tech,2024-08
+2024-10-13,silicon valley,2116,US,Silicon Valley,Global Tech,2024-10
+2023-10-31,baidu ai,16206,UK,Baidu,Chinese Companies,2023-10
+2023-10-30,huawei tech,2519,US,Huawei,Chinese Companies,2023-10
+2023-08-24,5g network,10083,KR,5G Technology,Chinese Concepts,2023-08
+2024-02-01,alibaba cloud,14411,KR,Alibaba Group,Chinese Companies,2024-02
+2023-11-25,clean tech,3737,UK,Clean Tech,Other,2023-11
+2023-04-10,digital conflict,9888,US,Digital Conflict,Other,2023-04
+2023-09-20,ByteDance,15609,IN,Bytedance,Chinese Companies,2023-09
+2023-05-29,semiconductors,17923,IN,Semiconductor,Chinese Concepts,2023-05
+2023-12-22,5g,12515,US,5G Technology,Chinese Concepts,2023-12
+2023-02-18,bytedance tiktok,5213,SG,TikTok,Chinese Concepts,2023-02
+2023-02-22,tencent games,12849,US,Tencent,Chinese Companies,2023-02
+2024-02-02,xiaomi,18058,UK,Xiaomi,Chinese Companies,2024-02
+2023-01-17,apple,12843,JP,Apple Inc.,Global Tech,2023-01
+2024-01-13,clean tech,3759,CN,Clean Tech,Other,2024-01
+2023-04-29,Baidu Inc,12023,IN,Baidu,Chinese Companies,2023-04
+2024-11-23,digital conflict,6318,CN,Digital Conflict,Other,2024-11
+2024-02-25,Huawei Technologies,16493,CN,Huawei,Chinese Companies,2024-02
+2024-10-26,tech war,8724,IN,Tech War,Other,2024-10
+2024-09-29,silicon valley tech,6955,US,Silicon Valley,Global Tech,2024-09
+2024-04-28,sv startups,1772,CA,Startup Company,Global Tech,2024-04
+2024-04-01,silicon valley,3007,KR,Silicon Valley,Global Tech,2024-04
+2024-12-29,bytedance,14767,US,Bytedance,Chinese Companies,2024-12
+2024-09-07,Google,9186,IN,Google,Global Tech,2024-09
+2023-08-14,Huawei Technologies,2102,US,Huawei,Chinese Companies,2023-08
+2024-08-24,ukraine tech,5723,FR,Ukraine Conflict,Other,2024-08
+2024-08-30,ByteDance,10171,UK,Bytedance,Chinese Companies,2024-08
+2023-08-21,startup company,10544,US,Startup Company,Global Tech,2023-08
+2023-12-28,climate tech,525,KR,Climate Tech,Other,2023-12
+2023-12-05,microsoft windows,7210,CA,Microsoft,Global Tech,2023-12
+2023-03-09,green technology,5602,US,Climate Tech,Other,2023-03
+2023-02-18,microsoft,7507,CN,Microsoft,Global Tech,2023-02
+2024-07-22,belt and road,19990,US,Belt and Road Initiative,Chinese Concepts,2024-07
+2023-01-05,tiktok video,6939,US,TikTok,Chinese Concepts,2023-01
+2024-11-03,digital conflict,2446,IN,Digital Conflict,Other,2024-11
+2024-07-11,tech war,8057,CN,Tech War,Other,2024-07
+2023-07-29,china belt road,11541,CN,China Belt Road,Other,2023-07
+2024-06-01,5g network,2116,UK,5G Technology,Chinese Concepts,2024-06
+2024-09-11,Tencent Holdings,7474,SG,Tencent,Chinese Companies,2024-09
+2024-08-04,Microsoft Corp,12744,US,Microsoft,Global Tech,2024-08
+2024-11-26,Amazon.com,14943,CA,Amazon,Global Tech,2024-11
+2023-11-28,made in china 2025,9548,CN,Made in China 2025,Chinese Concepts,2023-11
+2023-11-07,startups,9861,JP,Startup Company,Global Tech,2023-11
+2023-09-17,artificial intelligence,1619,SG,Artificial Intelligence,Chinese Concepts,2023-09
+2023-09-30,Google LLC,13706,CN,Google,Global Tech,2023-09
+2023-09-04,tech vaccine,9211,US,Vaccine,Other,2023-09
+2024-05-09,ukraine tech,7476,UK,Ukraine Conflict,Other,2024-05
+2024-08-18,DJI drones,9277,JP,DJI,Chinese Companies,2024-08
+2024-07-01,tencent,19020,CN,Tencent,Chinese Companies,2024-07
+2024-12-28,tech war,2717,CN,Tech War,Other,2024-12
+2024-03-31,WeChat pay,10135,US,WeChat,Chinese Concepts,2024-03
+2023-12-15,DJI drones,8618,KR,DJI,Chinese Companies,2023-12
+2023-09-22,tencent,8927,CA,Tencent,Chinese Companies,2023-09
+2023-05-09,douyin,9792,IN,TikTok,Chinese Concepts,2023-05
+2024-02-08,huawei tech,1628,US,Huawei,Chinese Companies,2024-02
+2023-12-25,amazon web services,4474,CN,Amazon,Global Tech,2023-12
+2024-11-15,alibaba cloud,9307,CN,Alibaba Group,Chinese Companies,2024-11
+2023-03-23,DJI drones,19545,FR,DJI,Chinese Companies,2023-03
+2024-02-08,chip manufacturing,13602,US,Semiconductor,Chinese Concepts,2024-02
+2023-07-12,huawei 5g,11593,DE,Huawei,Chinese Companies,2023-07
+2024-12-09,HUAWEI,3871,JP,Huawei,Chinese Companies,2024-12
+2023-10-09,Microsoft Corp,12946,CN,Microsoft,Global Tech,2023-10
+2023-10-30,climate tech,6797,KR,Climate Tech,Other,2023-10
+2023-05-12,alibaba,12030,UK,Alibaba Group,Chinese Companies,2023-05
+2024-09-19,amazon aws,3980,JP,Amazon,Global Tech,2024-09
+2023-05-27,alibaba.com,17998,US,Alibaba Group,Chinese Companies,2023-05
+2024-04-19,made in china 2025,17654,KR,Made in China 2025,Chinese Concepts,2024-04
+2024-01-02,huawei tech,16639,SG,Huawei,Chinese Companies,2024-01
+2024-06-19,Google,11575,DE,Google,Global Tech,2024-06
+2024-03-08,Google LLC,7414,US,Google,Global Tech,2024-03
+2024-08-03,climate tech,5458,US,Climate Tech,Other,2024-08
+2024-05-23,artificial intelligence china,4832,US,Artificial Intelligence,Chinese Concepts,2024-05
+2024-10-11,5g huawei,14926,CN,Huawei,Chinese Companies,2024-10
+2024-05-29,Baidu Inc,6810,US,Baidu,Chinese Companies,2024-05
+2024-05-25,digital conflict,3740,KR,Digital Conflict,Other,2024-05
+2023-11-02,vc funding,12605,CN,Venture Capital,Global Tech,2023-11
+2024-02-15,alibaba.com,17589,US,Alibaba Group,Chinese Companies,2024-02
+2024-07-04,digital conflict,5641,CN,Digital Conflict,Other,2024-07
+2023-09-29,xiaomi smartphone,12834,CN,Xiaomi,Chinese Companies,2023-09
+2023-02-01,china ai,5538,CN,Artificial Intelligence,Chinese Concepts,2023-02
+2024-10-12,artificial intelligence china,4551,US,Artificial Intelligence,Chinese Concepts,2024-10
+2024-07-13,Alibaba,14422,IN,Alibaba Group,Chinese Companies,2024-07
+2023-04-12,huawei 5g,3800,UK,Huawei,Chinese Companies,2023-04
+2023-03-22,baidu,11728,CN,Baidu,Chinese Companies,2023-03
+2023-04-06,ai technology,2914,SG,Artificial Intelligence,Chinese Concepts,2023-04
+2024-01-13,startups,966,KR,Startup Company,Global Tech,2024-01
+2024-02-22,Alibaba,14050,US,Alibaba Group,Chinese Companies,2024-02
+2024-08-04,tencent wechat,5357,DE,Tencent,Chinese Companies,2024-08
+2023-12-03,huawei tech,9752,IN,Huawei,Chinese Companies,2023-12
+2023-07-02,microsoft windows,5087,UK,Microsoft,Global Tech,2023-07
+2023-04-10,vc funding,2367,CN,Venture Capital,Global Tech,2023-04
+2024-01-04,tech vaccine,5446,SG,Vaccine,Other,2024-01
+2023-03-19,apple iphone,11865,JP,Apple Inc.,Global Tech,2023-03
+2024-12-28,belt road initiative,5997,UK,Belt Road Initiative,Other,2024-12
+2023-12-05,xiaomi smartphone,19624,CN,Xiaomi,Chinese Companies,2023-12
+2024-06-08,digital conflict,2355,IN,Digital Conflict,Other,2024-06
+2024-08-14,Microsoft Corp,5786,KR,Microsoft,Global Tech,2024-08
+2023-04-05,Baidu Inc,17835,JP,Baidu,Chinese Companies,2023-04
+2023-01-22,wechat mini programs,18266,UK,WeChat,Chinese Concepts,2023-01
+2023-07-25,climate tech,9066,JP,Climate Tech,Other,2023-07
+2024-08-17,climate tech,5095,DE,Climate Tech,Other,2024-08
+2023-04-23,covid tech,5631,CN,COVID-19,Other,2023-04
+2023-10-10,google ai,939,JP,Artificial Intelligence,Chinese Concepts,2023-10
+2024-07-22,huawei 5g,7043,CN,Huawei,Chinese Companies,2024-07
+2023-02-28,wechat mini programs,17433,CN,WeChat,Chinese Concepts,2023-02
+2023-07-16,startup company,8858,US,Startup Company,Global Tech,2023-07
+2024-03-27,Apple Inc,7232,DE,Apple Inc.,Global Tech,2024-03
+2024-08-13,AI,13502,US,Artificial Intelligence,Chinese Concepts,2024-08
+2024-04-21,startup company,5655,CA,Startup Company,Global Tech,2024-04
+2024-12-14,tech vaccine,4956,CA,Vaccine,Other,2024-12
+2024-10-30,china belt road,1201,US,China Belt Road,Other,2024-10
+2023-11-21,china 2025,2988,US,China 2025,Other,2023-11
+2024-11-19,clean tech,7662,JP,Clean Tech,Other,2024-11
+2023-07-27,made in china 2025,6633,CN,Made in China 2025,Chinese Concepts,2023-07
+2023-01-22,artificial intelligence,2518,CA,Artificial Intelligence,Chinese Concepts,2023-01
+2023-05-28,Apple company,13490,JP,Apple Inc.,Global Tech,2023-05
+2024-02-18,Google LLC,3649,DE,Google,Global Tech,2024-02
+2023-10-10,chips china,4849,UK,Chips China,Other,2023-10
+2024-03-18,digital conflict,4695,US,Digital Conflict,Other,2024-03
+2024-03-27,belt road initiative,10280,US,Belt Road Initiative,Other,2024-03
+2023-03-20,tencent,16674,IN,Tencent,Chinese Companies,2023-03
+2023-09-05,tech war,2313,JP,Tech War,Other,2023-09
+2023-10-11,made in china 2025,5396,JP,Made in China 2025,Chinese Concepts,2023-10
+2023-06-13,xiaomi mobile,1082,CA,Xiaomi,Chinese Companies,2023-06
+2023-08-25,clean tech,2593,US,Clean Tech,Other,2023-08
+2023-06-25,digital conflict,5785,US,Digital Conflict,Other,2023-06
+2023-02-23,made in china,13977,US,Made In China,Other,2023-02
+2023-05-07,sv startups,14520,CN,Startup Company,Global Tech,2023-05
+2024-08-27,Google,3226,IN,Google,Global Tech,2024-08
+2023-09-05,douyin,1859,JP,TikTok,Chinese Concepts,2023-09
+2023-06-19,xiaomi mobile,5017,IN,Xiaomi,Chinese Companies,2023-06
+2024-01-04,climate tech,8842,US,Climate Tech,Other,2024-01
+2024-01-01,covid tech,4664,US,COVID-19,Other,2024-01
+2023-07-22,ai technology,9252,CN,Artificial Intelligence,Chinese Concepts,2023-07
+2023-06-10,china 2025,2551,US,China 2025,Other,2023-06
+2024-10-11,climate tech,1861,SG,Climate Tech,Other,2024-10
+2024-03-18,Google,11358,UK,Google,Global Tech,2024-03
+2024-08-25,5g network,13013,CN,5G Technology,Chinese Concepts,2024-08
+2024-12-21,china ai,11748,JP,Artificial Intelligence,Chinese Concepts,2024-12
+2024-01-04,Xiaomi Corp,12035,FR,Xiaomi,Chinese Companies,2024-01
+2024-07-21,xiaomi mobile,3817,DE,Xiaomi,Chinese Companies,2024-07
+2023-07-07,venture capital tech,9733,CN,Venture Capital,Global Tech,2023-07
+2023-09-09,tech vaccine,6238,FR,Vaccine,Other,2023-09
+2023-03-04,tech vaccine,8329,SG,Vaccine,Other,2023-03
+2023-07-24,made in china 2025,9326,US,Made in China 2025,Chinese Concepts,2023-07
+2023-07-26,wechat mini programs,8296,IN,WeChat,Chinese Concepts,2023-07
+2023-05-01,artificial intelligence,2637,US,Artificial Intelligence,Chinese Concepts,2023-05
+2024-12-14,tech war,2568,IN,Tech War,Other,2024-12
+2023-10-30,microsoft windows,14707,CN,Microsoft,Global Tech,2023-10
+2023-05-09,tech war,695,FR,Tech War,Other,2023-05
+2024-06-18,tech startup,14776,CN,Startup Company,Global Tech,2024-06
+2023-02-21,vc funding,4727,SG,Venture Capital,Global Tech,2023-02
+2024-06-27,microsoft azure,9558,CA,Microsoft,Global Tech,2024-06
+2023-12-28,covid tech,3354,US,COVID-19,Other,2023-12
+2023-05-17,baidu search,18413,JP,Baidu,Chinese Companies,2023-05
+2024-10-23,Apple Inc,3272,KR,Apple Inc.,Global Tech,2024-10
+2024-04-09,WeChat pay,7219,KR,WeChat,Chinese Concepts,2024-04
+2024-12-26,venture capital,11496,US,Venture Capital,Global Tech,2024-12
+2024-10-14,bytedance,12821,CN,Bytedance,Chinese Companies,2024-10
+2023-02-14,climate tech,6020,IN,Climate Tech,Other,2023-02
+2024-04-29,Huawei Technologies,9837,SG,Huawei,Chinese Companies,2024-04
+2023-10-16,weixin,9912,CN,WeChat,Chinese Concepts,2023-10
+2024-09-25,digital vaccine,2173,DE,Vaccine,Other,2024-09
+2024-11-04,Google,10728,US,Google,Global Tech,2024-11
+2024-11-09,microsoft azure,3094,US,Microsoft,Global Tech,2024-11
+2023-04-28,silicon valley,12974,IN,Silicon Valley,Global Tech,2023-04
+2023-12-29,green technology,6128,CN,Climate Tech,Other,2023-12
+2023-01-19,huawei,3242,DE,Huawei,Chinese Companies,2023-01
+2024-03-24,apple china,2748,UK,Apple Inc.,Global Tech,2024-03
+2023-04-03,microsoft windows,13007,FR,Microsoft,Global Tech,2023-04
+2023-09-02,covid tech,5427,FR,COVID-19,Other,2023-09
+2023-10-09,tech startup,6960,US,Startup Company,Global Tech,2023-10
+2023-11-01,dji,16810,US,DJI,Chinese Companies,2023-11
+2023-07-12,Xiaomi Corp,19160,JP,Xiaomi,Chinese Companies,2023-07
+2023-09-08,venture capital,2588,CN,Venture Capital,Global Tech,2023-09
+2024-02-20,baidu search,16129,CN,Baidu,Chinese Companies,2024-02
+2024-10-29,baidu ai,10288,UK,Baidu,Chinese Companies,2024-10
+2024-08-20,bytedance tiktok,15671,US,TikTok,Chinese Concepts,2024-08
+2024-09-21,digital vaccine,4316,UK,Vaccine,Other,2024-09
+2024-10-20,baidu,6057,CN,Baidu,Chinese Companies,2024-10
+2023-05-19,google search,4564,CN,Google,Global Tech,2023-05
+2024-10-19,xiaomi smartphone,11674,CN,Xiaomi,Chinese Companies,2024-10
+2024-06-17,ai technology,19949,CN,Artificial Intelligence,Chinese Concepts,2024-06
+2023-10-19,xiaomi smartphone,12064,CA,Xiaomi,Chinese Companies,2023-10
+2023-11-29,5G technology,19988,CA,5G Technology,Chinese Concepts,2023-11
+2023-01-03,digital vaccine,8897,CN,Vaccine,Other,2023-01
+2024-07-27,startups,13731,UK,Startup Company,Global Tech,2024-07
+2023-03-03,tech vaccine,9971,UK,Vaccine,Other,2023-03
+2023-11-13,tech vaccine,5667,US,Vaccine,Other,2023-11
+2023-09-07,clean tech,6957,SG,Clean Tech,Other,2023-09
+2024-04-24,Xiaomi Corp,12577,IN,Xiaomi,Chinese Companies,2024-04
+2023-07-30,google ai,8671,IN,Artificial Intelligence,Chinese Concepts,2023-07
+2023-04-02,Apple Inc,10280,CN,Apple Inc.,Global Tech,2023-04
+2024-03-17,belt road initiative,11640,CN,Belt Road Initiative,Other,2024-03
+2024-07-29,google search,13945,KR,Google,Global Tech,2024-07
+2024-04-14,baidu search,4516,IN,Baidu,Chinese Companies,2024-04
+2024-06-03,tiktok,17999,CN,TikTok,Chinese Concepts,2024-06
+2024-08-28,tech vaccine,7359,IN,Vaccine,Other,2024-08
+2023-12-02,amazon,11632,JP,Amazon,Global Tech,2023-12
+2024-01-06,semiconductors,1857,UK,Semiconductor,Chinese Concepts,2024-01
+2024-01-19,TikTok app,15397,DE,TikTok,Chinese Concepts,2024-01
+2024-11-08,google search,13026,DE,Google,Global Tech,2024-11
+2023-06-05,tencent wechat,13180,DE,Tencent,Chinese Companies,2023-06
+2024-08-08,DJI drones,16796,SG,DJI,Chinese Companies,2024-08
+2023-12-06,climate tech,4440,IN,Climate Tech,Other,2023-12
+2024-01-27,dji innovation,4748,CN,DJI,Chinese Companies,2024-01
+2024-02-09,belt road initiative,17034,SG,Belt Road Initiative,Other,2024-02
+2024-11-20,green technology,4259,CN,Climate Tech,Other,2024-11
+2024-03-30,green technology,4672,SG,Climate Tech,Other,2024-03
+2023-11-27,ai technology,18589,DE,Artificial Intelligence,Chinese Concepts,2023-11
+2023-01-27,tiktok,10867,CN,TikTok,Chinese Concepts,2023-01
+2024-04-24,venture capital tech,11497,US,Venture Capital,Global Tech,2024-04
+2023-12-17,google search,12718,CN,Google,Global Tech,2023-12
+2024-04-03,Alibaba,5594,CN,Alibaba Group,Chinese Companies,2024-04
+2023-10-31,belt and road,7644,US,Belt and Road Initiative,Chinese Concepts,2023-10
+2023-04-24,semiconductor china,18375,CN,Semiconductor,Chinese Concepts,2023-04
+2023-08-23,amazon,8409,JP,Amazon,Global Tech,2023-08
+2023-05-05,tech war,567,CA,Tech War,Other,2023-05
+2024-11-13,silicon valley,4321,DE,Silicon Valley,Global Tech,2024-11
+2023-10-03,venture capital,3058,KR,Venture Capital,Global Tech,2023-10
+2024-11-25,microsoft azure,3387,UK,Microsoft,Global Tech,2024-11
+2024-07-16,google ai,6580,CA,Artificial Intelligence,Chinese Concepts,2024-07
+2023-04-23,digital conflict,2717,IN,Digital Conflict,Other,2023-04
+2024-12-15,alibaba,14878,KR,Alibaba Group,Chinese Companies,2024-12
+2023-03-16,climate tech,9631,UK,Climate Tech,Other,2023-03
+2024-05-25,DJI drones,14288,US,DJI,Chinese Companies,2024-05
+2023-03-05,douyin,7982,JP,TikTok,Chinese Concepts,2023-03
+2024-02-10,apple iphone,10741,JP,Apple Inc.,Global Tech,2024-02
+2024-10-15,alibaba,12667,DE,Alibaba Group,Chinese Companies,2024-10
+2023-02-28,bytedance,6162,UK,Bytedance,Chinese Companies,2023-02
+2024-06-15,digital conflict,7889,FR,Digital Conflict,Other,2024-06
+2023-03-31,green technology,5713,KR,Climate Tech,Other,2023-03
+2024-03-13,5g huawei,10802,JP,Huawei,Chinese Companies,2024-03
+2024-10-21,digital conflict,7675,US,Digital Conflict,Other,2024-10
+2024-12-21,china belt road,19771,KR,China Belt Road,Other,2024-12
+2023-02-14,climate tech,9646,KR,Climate Tech,Other,2023-02
+2023-08-03,tech war,6731,KR,Tech War,Other,2023-08
+2023-06-28,huawei tech,19643,US,Huawei,Chinese Companies,2023-06
+2023-08-11,Alibaba Group,7774,JP,Alibaba Group,Chinese Companies,2023-08
+2024-01-01,sv startups,7219,CN,Startup Company,Global Tech,2024-01
+2023-09-25,bytedance,14232,DE,Bytedance,Chinese Companies,2023-09
+2024-05-08,china belt road,2546,SG,China Belt Road,Other,2024-05
+2024-07-23,Microsoft Corp,14913,UK,Microsoft,Global Tech,2024-07
+2024-12-28,artificial intelligence,14193,US,Artificial Intelligence,Chinese Concepts,2024-12
+2023-03-25,google ai,4770,CA,Artificial Intelligence,Chinese Concepts,2023-03
+2024-08-06,xiaomi smartphone,5331,CN,Xiaomi,Chinese Companies,2024-08
+2023-04-03,green technology,1361,US,Climate Tech,Other,2023-04
+2024-06-23,AI,16408,CN,Artificial Intelligence,Chinese Concepts,2024-06
+2023-04-11,HUAWEI,13057,SG,Huawei,Chinese Companies,2023-04
+2023-06-15,amazon aws,3230,CA,Amazon,Global Tech,2023-06
+2024-10-03,climate tech,8042,DE,Climate Tech,Other,2024-10
+2024-03-28,china belt road,15527,JP,China Belt Road,Other,2024-03
+2023-12-21,green technology,6559,CN,Climate Tech,Other,2023-12
+2023-05-25,WeChat pay,8657,SG,WeChat,Chinese Concepts,2023-05
+2023-07-03,WeChat app,9417,UK,WeChat,Chinese Concepts,2023-07
+2024-11-18,bytedance tiktok,17913,DE,TikTok,Chinese Concepts,2024-11
+2024-02-03,covid tech,2653,CN,COVID-19,Other,2024-02
+2024-11-09,startups,8492,CA,Startup Company,Global Tech,2024-11
+2024-10-21,xiaomi smartphone,8124,UK,Xiaomi,Chinese Companies,2024-10
+2024-03-22,clean tech,4415,UK,Clean Tech,Other,2024-03
+2023-08-15,Apple Inc,4943,CN,Apple Inc.,Global Tech,2023-08
+2024-12-08,Apple Inc,986,IN,Apple Inc.,Global Tech,2024-12
+2023-08-17,ai technology,6509,JP,Artificial Intelligence,Chinese Concepts,2023-08
+2023-09-27,dji innovation,2630,CN,DJI,Chinese Companies,2023-09
+2023-03-13,climate tech,2195,CN,Climate Tech,Other,2023-03
+2023-04-30,apple,9211,US,Apple Inc.,Global Tech,2023-04
+2023-08-25,google search,7701,SG,Google,Global Tech,2023-08
+2024-02-26,belt road initiative,7855,JP,Belt Road Initiative,Other,2024-02
+2023-01-06,made in china 2025,12874,FR,Made in China 2025,Chinese Concepts,2023-01
+2023-12-15,covid tech,5874,CN,COVID-19,Other,2023-12
+2023-05-07,clean tech,5320,KR,Clean Tech,Other,2023-05
+2024-01-23,startup company,5420,JP,Startup Company,Global Tech,2024-01
+2023-10-03,tiktok video,19931,IN,TikTok,Chinese Concepts,2023-10
+2024-04-25,5G China,4968,CN,5G Technology,Chinese Concepts,2024-04
+2023-02-27,ByteDance,6447,FR,Bytedance,Chinese Companies,2023-02
+2024-11-16,bytedance,9519,US,Bytedance,Chinese Companies,2024-11
+2024-11-29,chips china,16588,UK,Chips China,Other,2024-11
+2023-01-02,alibaba.com,11997,CN,Alibaba Group,Chinese Companies,2023-01
+2023-01-13,Xiaomi Corp,7751,CN,Xiaomi,Chinese Companies,2023-01
+2023-12-04,china belt road,3828,DE,China Belt Road,Other,2023-12
+2024-09-15,WeChat app,14878,DE,WeChat,Chinese Concepts,2024-09
+2023-05-23,silicon valley tech,14312,UK,Silicon Valley,Global Tech,2023-05
+2024-04-15,tech war,7569,JP,Tech War,Other,2024-04
+2024-11-24,clean tech,3572,SG,Clean Tech,Other,2024-11
+2024-12-20,Google LLC,10280,CN,Google,Global Tech,2024-12
+2023-08-25,covid tech,7617,FR,COVID-19,Other,2023-08
+2024-10-28,green technology,3803,US,Climate Tech,Other,2024-10
+2024-09-06,microsoft,8650,DE,Microsoft,Global Tech,2024-09
+2024-12-25,dji,4924,SG,DJI,Chinese Companies,2024-12
+2023-12-08,digital conflict,8600,IN,Digital Conflict,Other,2023-12
+2024-12-12,startup company,10248,CN,Startup Company,Global Tech,2024-12
+2023-05-29,microsoft,8082,CN,Microsoft,Global Tech,2023-05
+2024-10-29,digital vaccine,8964,DE,Vaccine,Other,2024-10
+2023-01-28,digital conflict,8038,UK,Digital Conflict,Other,2023-01
+2023-06-26,china 2025,12939,CA,China 2025,Other,2023-06
+2023-04-15,covid tech,1751,JP,COVID-19,Other,2023-04
+2023-07-05,douyin,15330,KR,TikTok,Chinese Concepts,2023-07
+2024-08-31,tiktok video,14255,FR,TikTok,Chinese Concepts,2024-08
+2024-05-06,5G China,12151,IN,5G Technology,Chinese Concepts,2024-05
+2024-01-10,tech startup,7597,CN,Startup Company,Global Tech,2024-01
+2024-08-01,Google LLC,2073,US,Google,Global Tech,2024-08
+2023-03-14,china ai,10497,DE,Artificial Intelligence,Chinese Concepts,2023-03
+2023-06-01,digital vaccine,9720,US,Vaccine,Other,2023-06
+2023-04-23,Amazon.com,1070,UK,Amazon,Global Tech,2023-04
+2024-07-09,baidu search,16641,IN,Baidu,Chinese Companies,2024-07
+2023-05-20,amazon aws,14582,CN,Amazon,Global Tech,2023-05
+2024-01-03,climate tech,628,CN,Climate Tech,Other,2024-01
+2024-01-13,china belt road,14272,KR,China Belt Road,Other,2024-01
+2024-04-13,digital conflict,7089,UK,Digital Conflict,Other,2024-04
+2023-05-23,digital conflict,8685,CN,Digital Conflict,Other,2023-05
+2023-03-11,clean tech,3172,US,Clean Tech,Other,2023-03
+2023-04-01,climate tech,9221,US,Climate Tech,Other,2023-04
+2024-10-24,startup company,9183,KR,Startup Company,Global Tech,2024-10
+2023-12-11,china ai,8347,US,Artificial Intelligence,Chinese Concepts,2023-12
+2024-07-26,microsoft,5087,US,Microsoft,Global Tech,2024-07
+2023-11-07,baidu search,15391,US,Baidu,Chinese Companies,2023-11
+2023-07-16,belt road initiative,17968,KR,Belt Road Initiative,Other,2023-07
+2023-12-26,5g,15011,JP,5G Technology,Chinese Concepts,2023-12
+2024-08-24,Microsoft Corp,11756,JP,Microsoft,Global Tech,2024-08
+2024-08-28,startup company,3304,US,Startup Company,Global Tech,2024-08
+2024-11-26,WeChat app,14558,US,WeChat,Chinese Concepts,2024-11
+2024-03-14,tencent games,11350,JP,Tencent,Chinese Companies,2024-03
+2024-11-24,tencent,2449,SG,Tencent,Chinese Companies,2024-11
+2024-11-08,baidu ai,11850,CN,Baidu,Chinese Companies,2024-11
+2024-06-12,covid tech,9348,SG,COVID-19,Other,2024-06
+2023-06-12,digital conflict,7009,US,Digital Conflict,Other,2023-06
+2024-05-23,digital conflict,8462,SG,Digital Conflict,Other,2024-05
+2024-11-05,sv startups,10075,US,Startup Company,Global Tech,2024-11
+2024-02-11,china 2025,8384,JP,China 2025,Other,2024-02
+2024-06-15,google ai,5285,US,Artificial Intelligence,Chinese Concepts,2024-06
+2023-05-26,tech vaccine,7428,FR,Vaccine,Other,2023-05
+2024-01-19,chip manufacturing,12126,UK,Semiconductor,Chinese Concepts,2024-01
+2024-02-23,microsoft,8304,DE,Microsoft,Global Tech,2024-02
+2024-11-05,ukraine tech,8595,FR,Ukraine Conflict,Other,2024-11
+2023-11-13,green technology,7024,CN,Climate Tech,Other,2023-11
+2023-03-06,amazon aws,3202,CN,Amazon,Global Tech,2023-03
+2023-05-08,xiaomi,11637,CN,Xiaomi,Chinese Companies,2023-05
+2023-07-06,amazon,14831,SG,Amazon,Global Tech,2023-07
+2024-03-04,5G China,16193,US,5G Technology,Chinese Concepts,2024-03
+2023-10-14,Huawei Technologies,14058,US,Huawei,Chinese Companies,2023-10
+2024-05-01,clean tech,1461,KR,Clean Tech,Other,2024-05
+2023-04-13,digital vaccine,1501,CN,Vaccine,Other,2023-04
+2024-04-02,digital vaccine,9349,US,Vaccine,Other,2024-04
+2024-07-25,Xiaomi Corp,12873,SG,Xiaomi,Chinese Companies,2024-07
+2024-03-28,bytedance,11589,UK,Bytedance,Chinese Companies,2024-03
+2024-05-08,belt road initiative,7763,CN,Belt Road Initiative,Other,2024-05
+2023-10-15,apple,6537,KR,Apple Inc.,Global Tech,2023-10
+2023-07-21,clean tech,9927,US,Clean Tech,Other,2023-07
+2023-04-16,digital vaccine,4222,IN,Vaccine,Other,2023-04
+2024-03-27,ukraine tech,1308,US,Ukraine Conflict,Other,2024-03
+2024-05-18,digital conflict,8201,US,Digital Conflict,Other,2024-05
+2024-05-29,tiktok,14704,JP,TikTok,Chinese Concepts,2024-05
+2023-08-13,microsoft azure,14641,US,Microsoft,Global Tech,2023-08
+2024-12-14,xiaomi mobile,18490,KR,Xiaomi,Chinese Companies,2024-12
+2023-09-13,Alibaba Group,15038,CN,Alibaba Group,Chinese Companies,2023-09
+2023-08-25,tech vaccine,7915,CN,Vaccine,Other,2023-08
+2024-12-18,tencent,13662,SG,Tencent,Chinese Companies,2024-12
+2023-12-21,alibaba,9307,CN,Alibaba Group,Chinese Companies,2023-12
+2024-04-03,5g network,14834,SG,5G Technology,Chinese Concepts,2024-04
+2024-05-17,chip manufacturing,3941,KR,Semiconductor,Chinese Concepts,2024-05
+2023-02-23,clean tech,5950,CN,Clean Tech,Other,2023-02
+2024-04-27,amazon aws,1812,IN,Amazon,Global Tech,2024-04
+2023-12-30,digital conflict,5086,CN,Digital Conflict,Other,2023-12
+2024-10-03,ukraine tech,5422,UK,Ukraine Conflict,Other,2024-10
+2023-09-20,apple iphone,2702,UK,Apple Inc.,Global Tech,2023-09
+2023-01-12,apple iphone,940,SG,Apple Inc.,Global Tech,2023-01
+2024-01-11,Alibaba,19211,SG,Alibaba Group,Chinese Companies,2024-01
+2024-12-20,dji,3843,US,DJI,Chinese Companies,2024-12
+2024-09-04,Microsoft Corp,9917,CN,Microsoft,Global Tech,2024-09
+2023-03-12,china ai,7124,KR,Artificial Intelligence,Chinese Concepts,2023-03
+2023-07-14,huawei 5g,4982,CN,Huawei,Chinese Companies,2023-07
+2024-04-05,wechat,4092,SG,WeChat,Chinese Concepts,2024-04
+2023-10-12,startups,14771,IN,Startup Company,Global Tech,2023-10
+2023-08-12,Google,9775,US,Google,Global Tech,2023-08
+2023-01-30,5G China,17428,CN,5G Technology,Chinese Concepts,2023-01
+2024-03-02,chip manufacturing,10021,CA,Semiconductor,Chinese Concepts,2024-03
+2024-11-22,digital conflict,1431,US,Digital Conflict,Other,2024-11
+2024-07-03,silicon valley,7182,SG,Silicon Valley,Global Tech,2024-07
+2023-10-15,clean tech,9079,US,Clean Tech,Other,2023-10
+2024-09-29,Baidu Inc,16946,CN,Baidu,Chinese Companies,2024-09
+2023-10-27,5G China,7792,US,5G Technology,Chinese Concepts,2023-10
+2023-05-27,Google,9481,SG,Google,Global Tech,2023-05
+2024-03-16,digital vaccine,5808,DE,Vaccine,Other,2024-03
+2023-10-15,sv startups,6753,CN,Startup Company,Global Tech,2023-10
+2023-07-13,5G technology,3363,DE,5G Technology,Chinese Concepts,2023-07
+2023-09-02,climate tech,1426,DE,Climate Tech,Other,2023-09
+2023-12-07,Tencent Holdings,14721,UK,Tencent,Chinese Companies,2023-12
+2023-08-13,covid tech,1871,US,COVID-19,Other,2023-08
+2024-09-09,sv startups,7654,CN,Startup Company,Global Tech,2024-09
+2023-04-18,ukraine tech,7053,CN,Ukraine Conflict,Other,2023-04
+2023-11-27,semiconductor,7636,US,Semiconductor,Chinese Concepts,2023-11
+2023-07-01,apple china,3809,IN,Apple Inc.,Global Tech,2023-07
+2024-11-24,belt and road,3077,CN,Belt and Road Initiative,Chinese Concepts,2024-11
+2023-04-06,clean tech,5373,DE,Clean Tech,Other,2023-04
+2023-12-27,covid tech,9245,CN,COVID-19,Other,2023-12
+2023-08-25,tiktok,8701,US,TikTok,Chinese Concepts,2023-08
+2023-10-10,semiconductor,11401,US,Semiconductor,Chinese Concepts,2023-10
+2023-01-12,Huawei Technologies,6543,US,Huawei,Chinese Companies,2023-01
+2024-06-05,artificial intelligence china,11079,SG,Artificial Intelligence,Chinese Concepts,2024-06
+2023-02-08,ukraine tech,4655,IN,Ukraine Conflict,Other,2023-02
+2024-02-12,Google,14010,DE,Google,Global Tech,2024-02
+2023-07-13,alibaba,8452,SG,Alibaba Group,Chinese Companies,2023-07
+2023-12-06,dji innovation,3172,US,DJI,Chinese Companies,2023-12
+2024-09-13,tencent,12085,SG,Tencent,Chinese Companies,2024-09
+2023-05-08,tech vaccine,4927,US,Vaccine,Other,2023-05
+2024-11-15,5G China,14731,IN,5G Technology,Chinese Concepts,2024-11
+2023-12-22,Amazon.com,5335,SG,Amazon,Global Tech,2023-12
+2023-06-13,tencent wechat,8697,JP,Tencent,Chinese Companies,2023-06
+2023-05-03,microsoft windows,10415,US,Microsoft,Global Tech,2023-05
+2023-04-14,tech war,6374,JP,Tech War,Other,2023-04
+2024-12-10,microsoft azure,11435,CN,Microsoft,Global Tech,2024-12
+2023-05-22,bytedance,19748,CN,Bytedance,Chinese Companies,2023-05
+2024-11-11,covid tech,7138,UK,COVID-19,Other,2024-11
+2024-01-07,tencent wechat,17999,CN,Tencent,Chinese Companies,2024-01
+2023-02-12,chips china,1864,US,Chips China,Other,2023-02
+2024-04-20,amazon web services,13170,US,Amazon,Global Tech,2024-04
+2023-09-08,WeChat pay,11530,KR,WeChat,Chinese Concepts,2023-09
+2024-05-25,xiaomi,8774,CN,Xiaomi,Chinese Companies,2024-05
+2024-05-22,huawei 5g,16960,CN,Huawei,Chinese Companies,2024-05
+2024-08-30,Baidu Inc,8754,SG,Baidu,Chinese Companies,2024-08
+2023-02-23,wechat mini programs,3575,CA,WeChat,Chinese Concepts,2023-02
+2023-07-12,5g network,16470,CN,5G Technology,Chinese Concepts,2023-07
+2023-11-22,belt road initiative,5103,CN,Belt Road Initiative,Other,2023-11
+2023-05-11,google,14786,DE,Google,Global Tech,2023-05
+2024-09-12,ukraine tech,3644,SG,Ukraine Conflict,Other,2024-09
+2023-04-12,startup company,7930,JP,Startup Company,Global Tech,2023-04
+2023-07-07,tencent wechat,14397,CN,Tencent,Chinese Companies,2023-07
+2023-02-12,sv startups,11250,US,Startup Company,Global Tech,2023-02
+2023-01-26,digital vaccine,798,CN,Vaccine,Other,2023-01
+2024-03-15,Baidu Inc,7578,JP,Baidu,Chinese Companies,2024-03
+2024-10-27,startups,14153,SG,Startup Company,Global Tech,2024-10
+2024-03-02,5G technology,10663,CN,5G Technology,Chinese Concepts,2024-03
+2024-01-04,digital conflict,8605,US,Digital Conflict,Other,2024-01
+2023-11-24,apple iphone,2266,US,Apple Inc.,Global Tech,2023-11
+2023-09-20,tech startup,5162,FR,Startup Company,Global Tech,2023-09
+2024-10-27,clean tech,2393,JP,Clean Tech,Other,2024-10
+2024-09-20,silicon valley,6340,US,Silicon Valley,Global Tech,2024-09
+2023-09-26,clean tech,9292,SG,Clean Tech,Other,2023-09
+2023-04-26,made in china 2025,16989,JP,Made in China 2025,Chinese Concepts,2023-04
+2023-01-07,covid tech,9057,CN,COVID-19,Other,2023-01
+2023-08-03,digital conflict,9482,CN,Digital Conflict,Other,2023-08
+2023-11-09,amazon,5433,SG,Amazon,Global Tech,2023-11
+2023-06-13,baidu,19765,US,Baidu,Chinese Companies,2023-06
+2024-12-20,covid tech,2273,CN,COVID-19,Other,2024-12
+2023-03-20,tencent wechat,15327,CA,Tencent,Chinese Companies,2023-03
+2024-05-21,china ai,16540,CN,Artificial Intelligence,Chinese Concepts,2024-05
+2023-11-16,digital conflict,6860,FR,Digital Conflict,Other,2023-11
+2024-12-22,TikTok app,18576,US,TikTok,Chinese Concepts,2024-12
+2024-05-10,Xiaomi Corp,13668,US,Xiaomi,Chinese Companies,2024-05
+2024-11-03,silicon valley tech,3360,US,Silicon Valley,Global Tech,2024-11
+2024-05-30,tech vaccine,9604,JP,Vaccine,Other,2024-05
+2023-09-17,china 2025,11310,JP,China 2025,Other,2023-09
+2024-06-03,huawei tech,18303,SG,Huawei,Chinese Companies,2024-06
+2024-09-26,wechat,6930,JP,WeChat,Chinese Concepts,2024-09
+2024-10-19,made in china 2025,1507,KR,Made in China 2025,Chinese Concepts,2024-10
+2023-07-06,amazon,12094,JP,Amazon,Global Tech,2023-07
+2023-10-31,Xiaomi Corp,6037,IN,Xiaomi,Chinese Companies,2023-10
+2024-10-05,Apple company,8637,CN,Apple Inc.,Global Tech,2024-10
+2023-09-25,semiconductors,7365,CN,Semiconductor,Chinese Concepts,2023-09
+2023-09-12,WeChat app,2478,DE,WeChat,Chinese Concepts,2023-09
+2024-08-21,vc funding,6009,US,Venture Capital,Global Tech,2024-08
+2024-12-12,semiconductors,12927,CN,Semiconductor,Chinese Concepts,2024-12
+2024-08-29,alibaba cloud,8933,FR,Alibaba Group,Chinese Companies,2024-08
+2023-02-02,tencent,7089,SG,Tencent,Chinese Companies,2023-02
+2023-06-04,china belt road,1904,KR,China Belt Road,Other,2023-06
+2024-06-24,climate tech,1684,JP,Climate Tech,Other,2024-06
+2024-11-22,Alibaba Group,6606,CN,Alibaba Group,Chinese Companies,2024-11
+2023-09-16,tiktok video,17081,CN,TikTok,Chinese Concepts,2023-09
+2023-12-30,dji,16966,SG,DJI,Chinese Companies,2023-12
+2023-07-15,tech vaccine,7248,US,Vaccine,Other,2023-07
+2024-01-18,semiconductors,19565,UK,Semiconductor,Chinese Concepts,2024-01
+2023-03-26,venture capital,10582,US,Venture Capital,Global Tech,2023-03
+2024-11-09,microsoft azure,10427,CN,Microsoft,Global Tech,2024-11
+2024-03-08,startups,9256,US,Startup Company,Global Tech,2024-03
+2024-12-27,5g huawei,4124,UK,Huawei,Chinese Companies,2024-12
+2023-05-03,made in china,6506,US,Made In China,Other,2023-05
+2024-06-01,digital vaccine,6015,CN,Vaccine,Other,2024-06
+2023-03-08,baidu,10095,CN,Baidu,Chinese Companies,2023-03
+2023-06-24,wechat,10906,US,WeChat,Chinese Concepts,2023-06
+2023-01-16,xiaomi smartphone,6452,CA,Xiaomi,Chinese Companies,2023-01
+2023-11-30,dji innovation,18400,FR,DJI,Chinese Companies,2023-11
+2023-08-14,apple,4296,FR,Apple Inc.,Global Tech,2023-08
+2024-03-03,huawei 5g,3313,FR,Huawei,Chinese Companies,2024-03
+2024-01-04,ai technology,5056,FR,Artificial Intelligence,Chinese Concepts,2024-01
+2024-11-30,Alibaba,2689,IN,Alibaba Group,Chinese Companies,2024-11
+2024-02-24,artificial intelligence china,3936,US,Artificial Intelligence,Chinese Concepts,2024-02
+2024-03-02,chips china,6649,FR,Chips China,Other,2024-03
+2024-10-19,microsoft azure,12507,US,Microsoft,Global Tech,2024-10
+2023-02-25,digital vaccine,4706,CN,Vaccine,Other,2023-02
+2024-04-25,ukraine tech,7735,US,Ukraine Conflict,Other,2024-04
+2023-11-19,tiktok,10095,UK,TikTok,Chinese Concepts,2023-11
+2024-08-28,climate tech,3840,US,Climate Tech,Other,2024-08
+2024-01-02,digital conflict,3397,DE,Digital Conflict,Other,2024-01
